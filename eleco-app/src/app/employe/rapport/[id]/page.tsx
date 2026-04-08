@@ -7,7 +7,7 @@ import cataloguePrix from '@/lib/catalogue_prix.json'
 type User = { id: string; prenom: string }
 type SousDossier = { id: string; nom: string; chantier_id: string }
 type Materiau = { ref: string; nom: string; unite: string; categorie: string; quantite: number }
-type Article = { ref: string; nom: string; unite: string; categorie: string; prix_net: number }
+type Article = { nom: string; categorie: string; unite: string; pu: number; pv: number; pa: number }
 
 const catalogue = catalogueData as Article[]
 const categories = Array.from(new Set(catalogue.map(a => a.categorie)))
