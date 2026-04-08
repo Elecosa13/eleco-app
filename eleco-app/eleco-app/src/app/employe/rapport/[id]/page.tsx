@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react'
 import { useRouter, useParams } from 'next/navigation'
 import { supabase } from '@/lib/supabase'
-import cataloguePrix from '@/lib/catalogue_prix.json'
+const catalogueData = require('@/lib/catalogue_prix.json')
 
 type User = { id: string; prenom: string }
 type SousDossier = { id: string; nom: string; chantier_id: string; chantiers?: { nom: string } }
