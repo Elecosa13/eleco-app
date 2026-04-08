@@ -2,15 +2,12 @@
 import { useEffect, useState } from 'react'
 import { useRouter, useParams } from 'next/navigation'
 import { supabase } from '@/lib/supabase'
-const catalogueData = require('@/lib/catalogue_prix.json')
 
 type User = { id: string; prenom: string }
-type SousDossier = { id: string; nom: string; chantier_id: string; chantiers?: { nom: string } }
-type Article = { nom: string; categorie: string; unite: string; pu: number; pv: number; pa: number }
-type Materiau = Article & { quantite: number }
+type SousDossier = { id: string; nom: string; chantier_id: string }
+type Article = { id: string; nom: string; categorie: string; unite: string; prix_net: number; prix_perso: number; favori: boolean }
+type Materiau = { id: string; nom: string; unite: string; quantite: number; prix_net: number; prix_perso: number }
 
-const catalogue = cataloguePrix as Article[]
-const categories = ['Favoris', ...Array.from(new Set(catalogue.map(a => a.categorie)))]
 const FAVORIS_KEY = 'eleco_favoris'
 
 export default function RapportPage() {
@@ -24,12 +21,15 @@ export default function RapportPage() {
   const [fin, setFin] = useState('17:00')
   const [remarques, setRemarques] = useState('')
   const [materiaux, setMateriaux] = useState<Materiau[]>([])
+  const [catalogue, setCatalogue] = useState<Article[]>([])
+  const [categories, setCategories] = useState<string[]>([])
   const [catalogueVue, setCatalogueVue] = useState(false)
   const [recherche, setRecherche] = useState('')
   const [catFiltre, setCatFiltre] = useState('Favoris')
   const [favoris, setFavoris] = useState<string[]>([])
   const [envoi, setEnvoi] = useState(false)
   const [succes, setSucces] = useState(false)
+  const [loading, setLoading] = useState(true)
 
   useEffect(() => {
     const stored = localStorage.getItem('eleco_user')
@@ -39,30 +39,38 @@ export default function RapportPage() {
     supabase.from('sous_dossiers').select('*, chantiers(nom)').eq('id', sdId).single().then(({ data }) => {
       if (data) setSd(data as any)
     })
+    supabase.from('catalogue').select('*').eq('actif', true).order('nom').then(({ data }) => {
+      if (data) {
+        setCatalogue(data)
+        const cats = ['Favoris', ...Array.from(new Set(data.map((a: Article) => a.categorie).filter(Boolean)))]
+        setCategories(cats)
+      }
+      setLoading(false)
+    })
   }, [sdId])
 
-  function toggleFavori(nom: string) {
-    const newFavs = favoris.includes(nom) ? favoris.filter(f => f !== nom) : [...favoris, nom]
+  function toggleFavori(id: string) {
+    const newFavs = favoris.includes(id) ? favoris.filter(f => f !== id) : [...favoris, id]
     setFavoris(newFavs)
     localStorage.setItem(FAVORIS_KEY, JSON.stringify(newFavs))
   }
 
   const articlesFiltres = (() => {
     let liste = catalogue
-    if (catFiltre === 'Favoris') liste = catalogue.filter(a => favoris.includes(a.nom))
+    if (catFiltre === 'Favoris') liste = catalogue.filter(a => favoris.includes(a.id))
     else if (catFiltre) liste = catalogue.filter(a => a.categorie === catFiltre)
     if (recherche) liste = liste.filter(a => a.nom.toLowerCase().includes(recherche.toLowerCase()))
-    return liste.slice(0, 60)
+    return liste.slice(0, 80)
   })()
 
-  function ajouterArticle(article: Article) {
-    const existe = materiaux.find(m => m.nom === article.nom)
-    if (existe) setMateriaux(materiaux.map(m => m.nom === article.nom ? { ...m, quantite: m.quantite + 1 } : m))
-    else setMateriaux([...materiaux, { ...article, quantite: 1 }])
+  function ajouterArticle(a: Article) {
+    const existe = materiaux.find(m => m.id === a.id)
+    if (existe) setMateriaux(materiaux.map(m => m.id === a.id ? { ...m, quantite: m.quantite + 1 } : m))
+    else setMateriaux([...materiaux, { id: a.id, nom: a.nom, unite: a.unite, quantite: 1, prix_net: a.prix_net, prix_perso: a.prix_perso }])
   }
 
-  function modifierQte(nom: string, delta: number) {
-    setMateriaux(materiaux.map(m => m.nom === nom ? { ...m, quantite: Math.max(0, m.quantite + delta) } : m).filter(m => m.quantite > 0))
+  function modifierQte(id: string, delta: number) {
+    setMateriaux(materiaux.map(m => m.id === id ? { ...m, quantite: Math.max(0, m.quantite + delta) } : m).filter(m => m.quantite > 0))
   }
 
   function calcHeures() {
@@ -82,13 +90,13 @@ export default function RapportPage() {
     if (rapport && materiaux.length > 0) {
       await supabase.from('rapport_materiaux').insert(
         materiaux.map(m => ({
-          rapport_id: rapport.id, ref_article: m.nom, designation: m.nom,
-          unite: m.unite, quantite: m.quantite, prix_net: m.pu, prix_vente: m.pv, temps_pose: m.pa
+          rapport_id: rapport.id, ref_article: m.id, designation: m.nom,
+          unite: m.unite, quantite: m.quantite, prix_net: m.prix_net
         }))
       )
     }
     setEnvoi(false); setSucces(true)
-    setTimeout(() => router.push(`/employe/chantier/${sd.chantier_id}`), 2000)
+    setTimeout(() => router.push(`/employe/chantier/${(sd as any).chantier_id}`), 2000)
   }
 
   if (succes) return (
@@ -105,7 +113,7 @@ export default function RapportPage() {
           <button onClick={() => setCatalogueVue(false)} style={{ background: 'none', border: 'none', color: '#185FA5', fontSize: '13px', cursor: 'pointer', padding: 0 }}>← Retour</button>
           <div style={{ fontWeight: 600, fontSize: '15px', marginTop: '4px' }}>Catalogue</div>
         </div>
-        {materiaux.length > 0 && <span className="badge badge-blue">{materiaux.reduce((s, m) => s + m.quantite, 0)} articles</span>}
+        {materiaux.length > 0 && <span className="badge badge-blue">{materiaux.reduce((s, m) => s + m.quantite, 0)}</span>}
       </div>
       <div className="page-content">
         <input type="search" placeholder="Rechercher..." value={recherche} onChange={e => setRecherche(e.target.value)} />
@@ -121,47 +129,40 @@ export default function RapportPage() {
             </button>
           ))}
         </div>
-        {catFiltre === 'Favoris' && favoris.length === 0 && (
-          <div style={{ textAlign: 'center', color: '#888', fontSize: '13px', padding: '20px' }}>
-            Appuie sur ⭐ pour ajouter des favoris
-          </div>
+        {loading && <div style={{ textAlign: 'center', color: '#888', padding: '20px' }}>Chargement...</div>}
+        {!loading && catFiltre === 'Favoris' && favoris.length === 0 && (
+          <div style={{ textAlign: 'center', color: '#888', fontSize: '13px', padding: '20px' }}>Appuie sur ⭐ pour ajouter des favoris</div>
         )}
         <div className="card" style={{ padding: 0 }}>
           {articlesFiltres.map((article, i) => {
-            const qte = materiaux.find(m => m.nom === article.nom)?.quantite || 0
-            const isFav = favoris.includes(article.nom)
+            const qte = materiaux.find(m => m.id === article.id)?.quantite || 0
+            const isFav = favoris.includes(article.id)
             return (
-              <div key={`${article.nom}-${i}`} style={{
+              <div key={article.id} style={{
                 display: 'flex', alignItems: 'center', padding: '10px 14px', gap: '8px',
                 borderBottom: i < articlesFiltres.length - 1 ? '1px solid #eee' : 'none'
               }}>
-                <button onClick={() => toggleFavori(article.nom)} style={{
-                  background: 'none', border: 'none', fontSize: '16px', cursor: 'pointer',
-                  opacity: isFav ? 1 : 0.25, padding: 0, flexShrink: 0
-                }}>⭐</button>
+                <button onClick={() => toggleFavori(article.id)} style={{ background: 'none', border: 'none', fontSize: '16px', cursor: 'pointer', opacity: isFav ? 1 : 0.25, padding: 0, flexShrink: 0 }}>⭐</button>
                 <div style={{ flex: 1 }}>
                   <div style={{ fontSize: '13px', fontWeight: 500 }}>{article.nom}</div>
                   <div style={{ fontSize: '11px', color: '#888' }}>{article.categorie} · {article.unite}</div>
                 </div>
                 {qte === 0 ? (
-                  <button onClick={() => ajouterArticle(article)} style={{
-                    width: 28, height: 28, borderRadius: '50%', border: '1px solid #185FA5',
-                    background: '#E6F1FB', color: '#185FA5', fontSize: '18px', cursor: 'pointer', flexShrink: 0
-                  }}>+</button>
+                  <button onClick={() => ajouterArticle(article)} style={{ width: 28, height: 28, borderRadius: '50%', border: '1px solid #185FA5', background: '#E6F1FB', color: '#185FA5', fontSize: '18px', cursor: 'pointer', flexShrink: 0 }}>+</button>
                 ) : (
                   <div style={{ display: 'flex', alignItems: 'center', gap: '6px', flexShrink: 0 }}>
-                    <button onClick={() => modifierQte(article.nom, -1)} style={{ width: 26, height: 26, borderRadius: '50%', border: '1px solid #ddd', background: 'white', cursor: 'pointer', fontSize: '14px' }}>−</button>
+                    <button onClick={() => modifierQte(article.id, -1)} style={{ width: 26, height: 26, borderRadius: '50%', border: '1px solid #ddd', background: 'white', cursor: 'pointer', fontSize: '14px' }}>−</button>
                     <span style={{ fontSize: '13px', fontWeight: 600, minWidth: '20px', textAlign: 'center' }}>{qte}</span>
-                    <button onClick={() => modifierQte(article.nom, 1)} style={{ width: 26, height: 26, borderRadius: '50%', border: '1px solid #185FA5', background: '#185FA5', color: 'white', cursor: 'pointer', fontSize: '14px' }}>+</button>
+                    <button onClick={() => modifierQte(article.id, 1)} style={{ width: 26, height: 26, borderRadius: '50%', border: '1px solid #185FA5', background: '#185FA5', color: 'white', cursor: 'pointer', fontSize: '14px' }}>+</button>
                   </div>
                 )}
               </div>
             )
           })}
-          {articlesFiltres.length === 0 && <div style={{ padding: '20px', textAlign: 'center', color: '#888', fontSize: '13px' }}>Aucun article trouvé</div>}
+          {!loading && articlesFiltres.length === 0 && <div style={{ padding: '20px', textAlign: 'center', color: '#888', fontSize: '13px' }}>Aucun article trouvé</div>}
         </div>
         <button className="btn-primary" style={{ borderRadius: '6px' }} onClick={() => setCatalogueVue(false)}>
-          ✓ Confirmer ({materiaux.reduce((s, m) => s + m.quantite, 0)} articles sélectionnés)
+          ✓ Confirmer ({materiaux.reduce((s, m) => s + m.quantite, 0)} articles)
         </button>
       </div>
     </div>
@@ -192,14 +193,14 @@ export default function RapportPage() {
               <span style={{ fontWeight: 600, fontSize: '14px' }}>Matériaux</span>
               <button type="button" className="btn-primary btn-sm" style={{ width: 'auto', borderRadius: '6px' }} onClick={() => setCatalogueVue(true)}>+ Ajouter</button>
             </div>
-            {materiaux.length === 0 && <div style={{ fontSize: '13px', color: '#888' }}>Aucun article sélectionné</div>}
+            {materiaux.length === 0 && <div style={{ fontSize: '13px', color: '#888' }}>Aucun article</div>}
             {materiaux.map(m => (
-              <div key={m.nom} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', paddingBottom: '8px', borderBottom: '1px solid #eee' }}>
-                <div style={{ flex: 1 }}><div style={{ fontSize: '13px', fontWeight: 500 }}>{m.nom}</div><div style={{ fontSize: '11px', color: '#888' }}>{m.unite}</div></div>
+              <div key={m.id} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', paddingBottom: '8px', borderBottom: '1px solid #eee' }}>
+                <div><div style={{ fontSize: '13px', fontWeight: 500 }}>{m.nom}</div><div style={{ fontSize: '11px', color: '#888' }}>{m.unite}</div></div>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                  <button type="button" onClick={() => modifierQte(m.nom, -1)} style={{ width: 26, height: 26, borderRadius: '50%', border: '1px solid #ddd', background: 'white', cursor: 'pointer', fontSize: '14px' }}>−</button>
+                  <button type="button" onClick={() => modifierQte(m.id, -1)} style={{ width: 26, height: 26, borderRadius: '50%', border: '1px solid #ddd', background: 'white', cursor: 'pointer', fontSize: '14px' }}>−</button>
                   <span style={{ fontWeight: 600, minWidth: '20px', textAlign: 'center', fontSize: '13px' }}>{m.quantite}</span>
-                  <button type="button" onClick={() => modifierQte(m.nom, 1)} style={{ width: 26, height: 26, borderRadius: '50%', border: '1px solid #185FA5', background: '#185FA5', color: 'white', cursor: 'pointer', fontSize: '14px' }}>+</button>
+                  <button type="button" onClick={() => modifierQte(m.id, 1)} style={{ width: 26, height: 26, borderRadius: '50%', border: '1px solid #185FA5', background: '#185FA5', color: 'white', cursor: 'pointer', fontSize: '14px' }}>+</button>
                 </div>
               </div>
             ))}
