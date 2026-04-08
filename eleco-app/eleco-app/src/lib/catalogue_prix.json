@@ -1,0 +1,6522 @@
+[
+  {
+    "nom": "Tableau",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 300.0,
+    "pv": 230.77,
+    "pa": 0
+  },
+  {
+    "nom": "Main d'œuvre",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 200.0,
+    "pv": 0,
+    "pa": 2.5
+  },
+  {
+    "nom": "Contrôle final",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 290.0,
+    "pv": 0,
+    "pa": 1.4
+  },
+  {
+    "nom": "Contrôle final",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 290.0,
+    "pv": 0,
+    "pa": 1.4
+  },
+  {
+    "nom": "Main d'œuvre",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 880.0,
+    "pv": 0,
+    "pa": 8.0
+  },
+  {
+    "nom": "Percement diam 16 L 30cm CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 32.5,
+    "pv": 0,
+    "pa": 0.25
+  },
+  {
+    "nom": "Percement diam 20 L 30cm CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 45.5,
+    "pv": 0,
+    "pa": 0.35
+  },
+  {
+    "nom": "Percement diam 25 L 30cm CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 58.5,
+    "pv": 0,
+    "pa": 0.45
+  },
+  {
+    "nom": "Percement diam 32 L 30cm CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 71.5,
+    "pv": 0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Percement diam 40 L 30cm CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 84.5,
+    "pv": 0,
+    "pa": 0.65
+  },
+  {
+    "nom": "Percement diam 16 L 30cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 48.75,
+    "pv": 0,
+    "pa": 0.375
+  },
+  {
+    "nom": "Percement diam 20 L 30cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 61.75,
+    "pv": 0,
+    "pa": 0.475
+  },
+  {
+    "nom": "Percement diam 25 L 30cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 74.75,
+    "pv": 0,
+    "pa": 0.575
+  },
+  {
+    "nom": "Percement diam 32 L 30cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 87.75,
+    "pv": 0,
+    "pa": 0.675
+  },
+  {
+    "nom": "Percement diam 40 L 30cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 100.75,
+    "pv": 0,
+    "pa": 0.775
+  },
+  {
+    "nom": "Percement diam 16 L 60cm CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 65.0,
+    "pv": 0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Percement diam 20 L 60cm CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 91.0,
+    "pv": 0,
+    "pa": 0.7
+  },
+  {
+    "nom": "Percement diam 25 L 60cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 72.0,
+    "pv": 0,
+    "pa": 0.575
+  },
+  {
+    "nom": "Percement diam 32 L 60cm CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 143.0,
+    "pv": 0,
+    "pa": 1.1
+  },
+  {
+    "nom": "Percement diam 40 L 60cm CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 169.0,
+    "pv": 0,
+    "pa": 1.3
+  },
+  {
+    "nom": "Percement diam 16 L 60cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 97.5,
+    "pv": 0,
+    "pa": 0.75
+  },
+  {
+    "nom": "Percement diam 20 L 60cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 123.5,
+    "pv": 0,
+    "pa": 0.95
+  },
+  {
+    "nom": "Percement diam 25 L 60cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 224.25,
+    "pv": 0,
+    "pa": 1.725
+  },
+  {
+    "nom": "Percement diam 32 L 60cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 175.5,
+    "pv": 0,
+    "pa": 1.35
+  },
+  {
+    "nom": "Percement diam 40 L 60cm CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 201.5,
+    "pv": 0,
+    "pa": 1.55
+  },
+  {
+    "nom": "Percement dans canal jusqu'à tube M20 CI 21",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 8.45,
+    "pv": 0,
+    "pa": 0.065
+  },
+  {
+    "nom": "Percement dans canal jusqu'à tube M20 CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 12.35,
+    "pv": 0,
+    "pa": 0.095
+  },
+  {
+    "nom": "Percement dans canal jusqu'à tube M20 CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 15.6,
+    "pv": 0,
+    "pa": 0.12
+  },
+  {
+    "nom": "Adaptalock CI 20",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 2.86,
+    "pv": 1.2,
+    "pa": 0.02
+  },
+  {
+    "nom": "Point de raccordement (rouge) CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 87.75,
+    "pv": 23.0,
+    "pa": 0.445
+  },
+  {
+    "nom": "Raccordement conduite métalique jusq'ua 4\" CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 35.62,
+    "pv": 6.5,
+    "pa": 0.209
+  },
+  {
+    "nom": "Raccordement gaine de ventilation CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 27.82,
+    "pv": 6.0,
+    "pa": 0.154
+  },
+  {
+    "nom": "Boîte de raccordement liaisons équipotentielles\n    7x25 1x70 5x30 mm2 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 102.57,
+    "pv": 12.0,
+    "pa": 0.669
+  },
+  {
+    "nom": "Corde T J/Vert 1x16 CI 52",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 10.4,
+    "pv": 3.0,
+    "pa": 0.05
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 20.15,
+    "pv": 1.0,
+    "pa": 0.145
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 CI 21",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 20.15,
+    "pv": 1.0,
+    "pa": 0.145
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 26.0,
+    "pv": 1.0,
+    "pa": 0.19
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 59.8,
+    "pv": 1.0,
+    "pa": 0.45
+  },
+  {
+    "nom": "Boîte d'encastrement pour prise CEE  CI 21",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 21.01,
+    "pv": 1.66,
+    "pa": 0.145
+  },
+  {
+    "nom": "Boîte d'encastrement pour prise CEE  CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 26.86,
+    "pv": 1.66,
+    "pa": 0.19
+  },
+  {
+    "nom": "Boîte d'encastrement pour prise CEE  CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 60.66,
+    "pv": 1.66,
+    "pa": 0.45
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 2x1 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 22.84,
+    "pv": 2.57,
+    "pa": 0.15
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 2x1 CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 29.25,
+    "pv": 7.5,
+    "pa": 0.15
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 2x1 CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 69.64,
+    "pv": 2.57,
+    "pa": 0.51
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 3x1 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 24.84,
+    "pv": 3.61,
+    "pa": 0.155
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 3x1 CI 21",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 24.84,
+    "pv": 3.61,
+    "pa": 0.155
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 3x1 CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 44.99,
+    "pv": 3.61,
+    "pa": 0.31
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 3x1 CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 78.79,
+    "pv": 3.61,
+    "pa": 0.57
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 2x2 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 37.47,
+    "pv": 12.82,
+    "pa": 0.16
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 2x2 CI 21",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 37.47,
+    "pv": 12.82,
+    "pa": 0.16
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 2x2 CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 64.77,
+    "pv": 12.82,
+    "pa": 0.37
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 2x2 CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 98.57,
+    "pv": 12.82,
+    "pa": 0.63
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 3x2 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 49.51,
+    "pv": 21.08,
+    "pa": 0.17
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 3x2 CI 21",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 62.51,
+    "pv": 21.08,
+    "pa": 0.27
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 3x2 CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 83.31,
+    "pv": 21.08,
+    "pa": 0.43
+  },
+  {
+    "nom": "Boîte d'encastrement Gr1 3x2 CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 117.11,
+    "pv": 21.08,
+    "pa": 0.69
+  },
+  {
+    "nom": "Boîte d'encastrement Gr2 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 22.84,
+    "pv": 2.57,
+    "pa": 0.15
+  },
+  {
+    "nom": "Boîte d'encastrement Gr2 CI 21",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 22.84,
+    "pv": 2.57,
+    "pa": 0.15
+  },
+  {
+    "nom": "Boîte d'encastrement Gr2 CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 35.84,
+    "pv": 2.57,
+    "pa": 0.25
+  },
+  {
+    "nom": "Boîte d'encastrement Gr2 CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 69.64,
+    "pv": 2.57,
+    "pa": 0.51
+  },
+  {
+    "nom": "Boîte d'encastrement Gr3 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 37.47,
+    "pv": 12.82,
+    "pa": 0.16
+  },
+  {
+    "nom": "Boîte d'encastrement Gr3 CI 21",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 37.47,
+    "pv": 12.82,
+    "pa": 0.16
+  },
+  {
+    "nom": "Boîte d'encastrement Gr3 CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 64.77,
+    "pv": 12.82,
+    "pa": 0.37
+  },
+  {
+    "nom": "Boîte d'encastrement Gr3 CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 98.57,
+    "pv": 12.82,
+    "pa": 0.63
+  },
+  {
+    "nom": "Boîte pour spot avec reserve transfo CI 21 Fermacell",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 73.45,
+    "pv": 31.0,
+    "pa": 0.255
+  },
+  {
+    "nom": "Boîte pour spot sans reserve transfo CI 22 Fermacell",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 84.5,
+    "pv": 29.0,
+    "pa": 0.36
+  },
+  {
+    "nom": "Tampon de lampe CI 21",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 28.42,
+    "pv": 2.86,
+    "pa": 0.19
+  },
+  {
+    "nom": "Tampon de lampe CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 48.57,
+    "pv": 2.86,
+    "pa": 0.345
+  },
+  {
+    "nom": "Boîte de dérivation MDM Speedbox Gr2 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 82.55,
+    "pv": 6.0,
+    "pa": 0.575
+  },
+  {
+    "nom": "Boîte de dérivation MDM Speedbox Gr1 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 82.28,
+    "pv": 5.79,
+    "pa": 0.575
+  },
+  {
+    "nom": "Boîte de dérivation plexo 62x62 Gr1 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 74.75,
+    "pv": 0,
+    "pa": 0.575
+  },
+  {
+    "nom": "Boîte de dérivation plexo 80x80 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 81.51,
+    "pv": 5.2,
+    "pa": 0.575
+  },
+  {
+    "nom": "Boîte de dérivation plexo 130X130 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 95.29,
+    "pv": 15.8,
+    "pa": 0.575
+  },
+  {
+    "nom": "Boîte de dérivation plexo 220X170 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 123.56,
+    "pv": 37.55,
+    "pa": 0.575
+  },
+  {
+    "nom": "Boîte de dérivation en fonte IP 65 4xM20 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 138.71,
+    "pv": 49.2,
+    "pa": 0.575
+  },
+  {
+    "nom": "Presse-étoupe laiton M20 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 6.37,
+    "pv": 3.3,
+    "pa": 0.016
+  },
+  {
+    "nom": "Boîte de dérivation en fonte 5x35mm2 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 269.75,
+    "pv": 150.0,
+    "pa": 0.575
+  },
+  {
+    "nom": "Regard circulaire diam 16x20 , H=23cm Gr1 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 104.97,
+    "pv": 23.25,
+    "pa": 0.575
+  },
+  {
+    "nom": "Regard vert /ArrosageGr1 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 87.6,
+    "pv": 23.25,
+    "pa": 0.575
+  },
+  {
+    "nom": "Boîte de sol 290X290 8 emplacements",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 640.51,
+    "pv": 192.7,
+    "pa": 3.0
+  },
+  {
+    "nom": "Boîte de dérivation 105x105 CI 22",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 110.5,
+    "pv": 2.5,
+    "pa": 0.825
+  },
+  {
+    "nom": "Boîte de dérivation 105x105 CI 23",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 144.3,
+    "pv": 2.5,
+    "pa": 1.085
+  },
+  {
+    "nom": "Raccordement boîte + couvercle GR2  CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 50.2,
+    "pv": 5.0,
+    "pa": 0.34
+  },
+  {
+    "nom": "Manchon CP GRD 2",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 198.9,
+    "pv": 63.0,
+    "pa": 0.9
+  },
+  {
+    "nom": "Resine coulée",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 139.1,
+    "pv": 17.0,
+    "pa": 0.9
+  },
+  {
+    "nom": "Boîte de montage pour canal de plinthe 20x70 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 59.66,
+    "pv": 30.3,
+    "pa": 0.156
+  },
+  {
+    "nom": "Boîte de montage pour canal de plinthe 20x70 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 71.1,
+    "pv": 30.3,
+    "pa": 0.244
+  },
+  {
+    "nom": "Boîte de montage pour canal d'allège P 70 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 27.95,
+    "pv": 13.0,
+    "pa": 0.085
+  },
+  {
+    "nom": "Tube TIT M16 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 21.83,
+    "pv": 0.79,
+    "pa": 0.16
+  },
+  {
+    "nom": "Tube TIT M16 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 26.38,
+    "pv": 0.79,
+    "pa": 0.195
+  },
+  {
+    "nom": "Tube TIT M16 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 27.68,
+    "pv": 0.79,
+    "pa": 0.205
+  },
+  {
+    "nom": "Tube TIT M20 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 21.93,
+    "pv": 0.87,
+    "pa": 0.16
+  },
+  {
+    "nom": "Tube TIT M20 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 26.48,
+    "pv": 0.87,
+    "pa": 0.195
+  },
+  {
+    "nom": "Tube TIT M20 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 27.78,
+    "pv": 0.87,
+    "pa": 0.205
+  },
+  {
+    "nom": "Tube TIT M25 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 22.55,
+    "pv": 1.35,
+    "pa": 0.16
+  },
+  {
+    "nom": "Tube TIT M25 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 27.11,
+    "pv": 1.35,
+    "pa": 0.195
+  },
+  {
+    "nom": "Tube TIT M25 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 28.41,
+    "pv": 1.35,
+    "pa": 0.205
+  },
+  {
+    "nom": "Tube TIT M32 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 24.26,
+    "pv": 2.16,
+    "pa": 0.165
+  },
+  {
+    "nom": "Tube TIT M32 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 30.11,
+    "pv": 2.16,
+    "pa": 0.21
+  },
+  {
+    "nom": "Tube TIT M32 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 31.41,
+    "pv": 2.16,
+    "pa": 0.22
+  },
+  {
+    "nom": "Tube TIT M40 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 38.35,
+    "pv": 10.0,
+    "pa": 0.195
+  },
+  {
+    "nom": "Tube TIT M40 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 46.15,
+    "pv": 10.0,
+    "pa": 0.255
+  },
+  {
+    "nom": "Tube TIT M40 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 48.75,
+    "pv": 10.0,
+    "pa": 0.275
+  },
+  {
+    "nom": "Coude TIT M16 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 17.7,
+    "pv": 1.62,
+    "pa": 0.12
+  },
+  {
+    "nom": "Coude TIT M20 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 18.3,
+    "pv": 2.08,
+    "pa": 0.12
+  },
+  {
+    "nom": "Coude TIT M25 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 18.89,
+    "pv": 2.53,
+    "pa": 0.12
+  },
+  {
+    "nom": "Coude TIT M32 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 29.64,
+    "pv": 10.8,
+    "pa": 0.12
+  },
+  {
+    "nom": "Coude TIT M40 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 24.45,
+    "pv": 6.81,
+    "pa": 0.12
+  },
+  {
+    "nom": "Tube ALU M16 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 25.44,
+    "pv": 3.57,
+    "pa": 0.16
+  },
+  {
+    "nom": "Tube ALU M16 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 29.99,
+    "pv": 3.57,
+    "pa": 0.195
+  },
+  {
+    "nom": "Tube ALU M16 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 31.29,
+    "pv": 3.57,
+    "pa": 0.205
+  },
+  {
+    "nom": "Tube ALU M20 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 26.63,
+    "pv": 4.48,
+    "pa": 0.16
+  },
+  {
+    "nom": "Tube ALU M20 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 31.18,
+    "pv": 4.48,
+    "pa": 0.195
+  },
+  {
+    "nom": "Tube ALU M20 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 32.48,
+    "pv": 4.48,
+    "pa": 0.205
+  },
+  {
+    "nom": "Tube ALU M25 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 28.84,
+    "pv": 6.18,
+    "pa": 0.16
+  },
+  {
+    "nom": "Tube ALU M25 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 33.39,
+    "pv": 6.18,
+    "pa": 0.195
+  },
+  {
+    "nom": "Tube ALU M25 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 34.69,
+    "pv": 6.18,
+    "pa": 0.205
+  },
+  {
+    "nom": "Tube ALU M32 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 32.94,
+    "pv": 8.84,
+    "pa": 0.165
+  },
+  {
+    "nom": "Tube ALU M32 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 38.79,
+    "pv": 8.84,
+    "pa": 0.21
+  },
+  {
+    "nom": "Tube ALU M32 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 40.09,
+    "pv": 8.84,
+    "pa": 0.22
+  },
+  {
+    "nom": "Tube ALU M40 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 40.78,
+    "pv": 11.87,
+    "pa": 0.195
+  },
+  {
+    "nom": "Tube ALU M40 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 48.58,
+    "pv": 11.87,
+    "pa": 0.255
+  },
+  {
+    "nom": "Tube ALU M40 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 51.18,
+    "pv": 11.87,
+    "pa": 0.275
+  },
+  {
+    "nom": "Coude ALU M16 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 23.85,
+    "pv": 6.35,
+    "pa": 0.12
+  },
+  {
+    "nom": "Coude ALU M20 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 24.77,
+    "pv": 7.05,
+    "pa": 0.12
+  },
+  {
+    "nom": "Coude ALU M25 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 27.47,
+    "pv": 9.13,
+    "pa": 0.12
+  },
+  {
+    "nom": "Coude ALU M32 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 31.84,
+    "pv": 12.49,
+    "pa": 0.12
+  },
+  {
+    "nom": "Coude ALU M40 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 40.36,
+    "pv": 19.05,
+    "pa": 0.12
+  },
+  {
+    "nom": "Tube THFW M20 flexible CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 17.03,
+    "pv": 0.6,
+    "pa": 0.125
+  },
+  {
+    "nom": "Tube THFW M20 flexible CI 20",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 5.33,
+    "pv": 0.6,
+    "pa": 0.035
+  },
+  {
+    "nom": "Tube THFW M20 flexible CI 21",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 9.53,
+    "pv": 0.83,
+    "pa": 0.065
+  },
+  {
+    "nom": "Tube THFW M20 flexible CI 22",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 43.33,
+    "pv": 0.83,
+    "pa": 0.325
+  },
+  {
+    "nom": "Tube THFW M20 flexible CI 23",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 111.58,
+    "pv": 0.83,
+    "pa": 0.85
+  },
+  {
+    "nom": "Tube THFW M25 flexible CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 19.01,
+    "pv": 1.12,
+    "pa": 0.135
+  },
+  {
+    "nom": "Tube THFW M25 flexible CI 20",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 6.01,
+    "pv": 1.12,
+    "pa": 0.035
+  },
+  {
+    "nom": "Tube THFW M25 flexible CI 21",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 11.86,
+    "pv": 1.12,
+    "pa": 0.08
+  },
+  {
+    "nom": "Tube THFW M25 flexible CI 22",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 48.26,
+    "pv": 1.12,
+    "pa": 0.36
+  },
+  {
+    "nom": "Tube THFW M25 flexible CI 23",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 111.96,
+    "pv": 1.12,
+    "pa": 0.85
+  },
+  {
+    "nom": "Tube THFW M32 flexible CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 21.12,
+    "pv": 1.74,
+    "pa": 0.145
+  },
+  {
+    "nom": "Tube THFW M32 flexible CI 20",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 7.47,
+    "pv": 1.74,
+    "pa": 0.04
+  },
+  {
+    "nom": "Tube THFW M32 flexible CI 21",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 15.27,
+    "pv": 1.74,
+    "pa": 0.1
+  },
+  {
+    "nom": "Tube THFW M32 flexible CI 22",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 52.32,
+    "pv": 1.74,
+    "pa": 0.385
+  },
+  {
+    "nom": "Tube THFW M32 flexible CI 23",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 119.27,
+    "pv": 1.74,
+    "pa": 0.9
+  },
+  {
+    "nom": "Tube THFW M40 flexible CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 22.68,
+    "pv": 2.45,
+    "pa": 0.15
+  },
+  {
+    "nom": "Tube THFW M40 flexible CI 20",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 9.03,
+    "pv": 2.45,
+    "pa": 0.045
+  },
+  {
+    "nom": "Tube THFW M40 flexible CI 21",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 16.83,
+    "pv": 2.45,
+    "pa": 0.105
+  },
+  {
+    "nom": "Tube THFW M40 flexible CI 22",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 55.83,
+    "pv": 2.45,
+    "pa": 0.405
+  },
+  {
+    "nom": "Tube THFW M40 flexible CI 23",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 126.68,
+    "pv": 2.45,
+    "pa": 0.95
+  },
+  {
+    "nom": "Tube THFW M63 flexible CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 24.0,
+    "pv": 3.46,
+    "pa": 0.15
+  },
+  {
+    "nom": "Tube THFW M63 flexible CI 20",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 10.35,
+    "pv": 3.46,
+    "pa": 0.045
+  },
+  {
+    "nom": "Tube THFW M63 flexible CI 21",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 18.15,
+    "pv": 3.46,
+    "pa": 0.105
+  },
+  {
+    "nom": "Tube THFW M63 flexible CI 22",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 57.15,
+    "pv": 3.46,
+    "pa": 0.405
+  },
+  {
+    "nom": "Tube THFW M63 flexible CI 23",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 128.0,
+    "pv": 3.46,
+    "pa": 0.95
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 12.5x20 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 18.68,
+    "pv": 2.37,
+    "pa": 0.12
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 12.5x20 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 21.93,
+    "pv": 2.37,
+    "pa": 0.145
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 12.5x20 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 26.48,
+    "pv": 2.37,
+    "pa": 0.18
+  },
+  {
+    "nom": "Angle interrieur PVC blanc 12.5x20 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 6.5,
+    "pv": 0,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle extérieur PVC blanc 12.5x20 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 6.5,
+    "pv": 0,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle plat PVC blanc 12.5x20 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 6.5,
+    "pv": 0,
+    "pa": 0.05
+  },
+  {
+    "nom": "Pièce terminale 12.5x20 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 10.4,
+    "pv": 0,
+    "pa": 0.08
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 25x25 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 21.05,
+    "pv": 4.19,
+    "pa": 0.12
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 25x25 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 24.3,
+    "pv": 4.19,
+    "pa": 0.145
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 25x25 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 28.85,
+    "pv": 4.19,
+    "pa": 0.18
+  },
+  {
+    "nom": "Angle interrieur PVC blanc 25x25 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 6.5,
+    "pv": 0,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle extérieur PVC blanc 25x25CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 6.5,
+    "pv": 0,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle plat PVC blanc 25x25 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 6.5,
+    "pv": 0,
+    "pa": 0.05
+  },
+  {
+    "nom": "Pièce terminale 25x25 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 10.4,
+    "pv": 0,
+    "pa": 0.08
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 15x15 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 19.43,
+    "pv": 2.95,
+    "pa": 0.12
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 10x30 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 21.12,
+    "pv": 4.25,
+    "pa": 0.12
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 20x33 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 21.84,
+    "pv": 4.8,
+    "pa": 0.12
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 30x35 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 23.15,
+    "pv": 5.81,
+    "pa": 0.12
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 30x35 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 26.4,
+    "pv": 5.81,
+    "pa": 0.145
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 30x35 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 30.95,
+    "pv": 5.81,
+    "pa": 0.18
+  },
+  {
+    "nom": "Angle interrieur PVC blanc 30x35 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 14.05,
+    "pv": 5.81,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle extérieur PVC blanc 30x35 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 14.05,
+    "pv": 5.81,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle plat PVC blanc 30x35 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 14.05,
+    "pv": 5.81,
+    "pa": 0.05
+  },
+  {
+    "nom": "Pièce terminale 30x35 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 14.05,
+    "pv": 5.81,
+    "pa": 0.05
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 30x45 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 24.83,
+    "pv": 7.1,
+    "pa": 0.12
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 30x45 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 28.08,
+    "pv": 7.1,
+    "pa": 0.145
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 30x45 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 32.63,
+    "pv": 7.1,
+    "pa": 0.18
+  },
+  {
+    "nom": "Angle interrieur PVC blanc 30x45 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 18.32,
+    "pv": 9.09,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle extérieur PVC blanc 30x45 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 16.32,
+    "pv": 7.55,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle plat PVC blanc 30x45 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 19.12,
+    "pv": 9.71,
+    "pa": 0.05
+  },
+  {
+    "nom": "Pièce terminale 30x45 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 12.81,
+    "pv": 4.86,
+    "pa": 0.05
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 30x60 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 24.94,
+    "pv": 6.68,
+    "pa": 0.125
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 30x60 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 28.19,
+    "pv": 6.68,
+    "pa": 0.15
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 30x60 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 32.74,
+    "pv": 6.68,
+    "pa": 0.185
+  },
+  {
+    "nom": "Angle interrieur PVC blanc 30x60 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 34.55,
+    "pv": 21.58,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle extérieur PVC blanc 30x60 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 39.36,
+    "pv": 25.27,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle plat PVC blanc 30x60 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 28.94,
+    "pv": 17.26,
+    "pa": 0.05
+  },
+  {
+    "nom": "Pièce terminale 30x60 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 13.35,
+    "pv": 5.27,
+    "pa": 0.05
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 40x60 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 26.0,
+    "pv": 7.5,
+    "pa": 0.125
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 40x60 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 29.25,
+    "pv": 7.5,
+    "pa": 0.15
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 40x60 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 33.8,
+    "pv": 7.5,
+    "pa": 0.185
+  },
+  {
+    "nom": "Angle interrieur PVC blanc 40x60 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 34.55,
+    "pv": 21.58,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle extérieur PVC blanc 40x60 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 39.36,
+    "pv": 25.27,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle plat PVC blanc 40x60 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 28.94,
+    "pv": 17.26,
+    "pa": 0.05
+  },
+  {
+    "nom": "Pièce terminale 40x60 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 13.35,
+    "pv": 5.27,
+    "pa": 0.05
+  },
+  {
+    "nom": "Canal d'installation alu  40x60 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 66.95,
+    "pv": 39.0,
+    "pa": 0.125
+  },
+  {
+    "nom": "Canal d'installation alu 40x60 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 70.2,
+    "pv": 39.0,
+    "pa": 0.15
+  },
+  {
+    "nom": "Canal d'installation alu 40x60 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 74.75,
+    "pv": 39.0,
+    "pa": 0.185
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 40x90 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 38.35,
+    "pv": 14.5,
+    "pa": 0.15
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 60x90 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 42.97,
+    "pv": 18.05,
+    "pa": 0.15
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 60x90 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 46.87,
+    "pv": 18.05,
+    "pa": 0.18
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 60x90 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 53.37,
+    "pv": 18.05,
+    "pa": 0.23
+  },
+  {
+    "nom": "Angle interrieur PVC blanc 60x90 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 42.65,
+    "pv": 27.8,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle extérieur PVC blanc 60x90 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 43.29,
+    "pv": 28.3,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle plat PVC blanc 60x90 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 34.39,
+    "pv": 21.46,
+    "pa": 0.05
+  },
+  {
+    "nom": "Pièce terminale 60x90 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 14.65,
+    "pv": 6.27,
+    "pa": 0.05
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 60x110 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 40.95,
+    "pv": 16.5,
+    "pa": 0.15
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 60x110 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 44.85,
+    "pv": 16.5,
+    "pa": 0.18
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 60x110 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 51.35,
+    "pv": 16.5,
+    "pa": 0.23
+  },
+  {
+    "nom": "Angle interrieur PVC blanc 60x110 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 44.1,
+    "pv": 28.93,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle extérieur PVC blanc 60x110 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 43.29,
+    "pv": 28.3,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle plat PVC blanc 60x110 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 36.5,
+    "pv": 23.07,
+    "pa": 0.05
+  },
+  {
+    "nom": "Pièce terminale 60x110 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 15.46,
+    "pv": 6.89,
+    "pa": 0.05
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 60x150 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 64.5,
+    "pv": 34.11,
+    "pa": 0.155
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 60x150 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 69.05,
+    "pv": 34.11,
+    "pa": 0.19
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 60x150 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 76.85,
+    "pv": 34.11,
+    "pa": 0.25
+  },
+  {
+    "nom": "Angle interrieur PVC blanc 60x150 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 48.9,
+    "pv": 32.62,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle extérieur PVC blanc 60x150 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 52.25,
+    "pv": 35.19,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle plat PVC blanc 60x150 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 44.37,
+    "pv": 29.13,
+    "pa": 0.05
+  },
+  {
+    "nom": "Pièce terminale 60x150 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 17.13,
+    "pv": 8.18,
+    "pa": 0.05
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 100x250 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 142.68,
+    "pv": 91.76,
+    "pa": 0.18
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 100x250 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 147.23,
+    "pv": 91.76,
+    "pa": 0.215
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 100x250 CI 13",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 155.03,
+    "pv": 91.76,
+    "pa": 0.275
+  },
+  {
+    "nom": "Angle interrieur PVC blanc 100x250 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 257.21,
+    "pv": 192.85,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle extérieur PVC blanc 100x250 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 313.69,
+    "pv": 236.3,
+    "pa": 0.05
+  },
+  {
+    "nom": "Angle plat PVC blanc 100x250 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 217.07,
+    "pv": 161.97,
+    "pa": 0.05
+  },
+  {
+    "nom": "Pièce terminale 100x250 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 31.91,
+    "pv": 19.55,
+    "pa": 0.05
+  },
+  {
+    "nom": "Canal de plinthe PVC 20x70 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 31.13,
+    "pv": 12.95,
+    "pa": 0.11
+  },
+  {
+    "nom": "Canal de plinthe PVC 20x70 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 36.98,
+    "pv": 12.95,
+    "pa": 0.155
+  },
+  {
+    "nom": "Angle interrieur PVC 20x70 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 16.25,
+    "pv": 3.8,
+    "pa": 0.087
+  },
+  {
+    "nom": "Angle extérieur PVC 20x70 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 16.25,
+    "pv": 3.8,
+    "pa": 0.087
+  },
+  {
+    "nom": "Fermeture à droite",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 15.86,
+    "pv": 3.5,
+    "pa": 0.087
+  },
+  {
+    "nom": "Fermeture à gauche",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 15.86,
+    "pv": 3.5,
+    "pa": 0.087
+  },
+  {
+    "nom": "Pièce terminale gauche PVC 20x70 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 9.57,
+    "pv": 3.36,
+    "pa": 0.04
+  },
+  {
+    "nom": "Pièce terminale droite PVC 20x70 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 9.57,
+    "pv": 3.36,
+    "pa": 0.04
+  },
+  {
+    "nom": "Boîte de montage IS PVC 20x70 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 59.66,
+    "pv": 30.3,
+    "pa": 0.156
+  },
+  {
+    "nom": "Boîte de montage IS PVC 20x70 CI 12",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 71.1,
+    "pv": 30.3,
+    "pa": 0.244
+  },
+  {
+    "nom": "Canal de plinthe PVC 25x100 CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 31.13,
+    "pv": 12.95,
+    "pa": 0.11
+  },
+  {
+    "nom": "Canal de plinthe PVC 25x100 CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 36.98,
+    "pv": 12.95,
+    "pa": 0.155
+  },
+  {
+    "nom": "Angle interrieur PVC 25x100 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 15.68,
+    "pv": 3.36,
+    "pa": 0.087
+  },
+  {
+    "nom": "Angle extérieur PVC 25x100 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 16.25,
+    "pv": 3.8,
+    "pa": 0.087
+  },
+  {
+    "nom": "Fermeture à droite",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 14.56,
+    "pv": 2.5,
+    "pa": 0.087
+  },
+  {
+    "nom": "Fermeture à gauche",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 14.56,
+    "pv": 2.5,
+    "pa": 0.087
+  },
+  {
+    "nom": "Canal d'hallège PVC 100x70  CI 11",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 59.67,
+    "pv": 30.0,
+    "pa": 0.159
+  },
+  {
+    "nom": "Canal d'hallège PVC 100x70  CI 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 64.48,
+    "pv": 30.0,
+    "pa": 0.196
+  },
+  {
+    "nom": "Boîte de montage pour canal d'allège P 70 CI 11",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 27.95,
+    "pv": 13.0,
+    "pa": 0.085
+  },
+  {
+    "nom": "Chemin de câble 60x150",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 52.65,
+    "pv": 13.0,
+    "pa": 0.275
+  },
+  {
+    "nom": "Coude 90 degrés 60x150",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 52.65,
+    "pv": 13.0,
+    "pa": 0.275
+  },
+  {
+    "nom": "Coude réglable 60x150",
+    "categorie": "Support",
+    "unite": "p",
+    "pu": 85.15,
+    "pv": 38.0,
+    "pa": 0.275
+  },
+  {
+    "nom": "Cafix en pvc blanc de 6",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 11.16,
+    "pv": 1.3,
+    "pa": 0.12
+  },
+  {
+    "nom": "Cafix en pvc blanc de 12",
+    "categorie": "Support",
+    "unite": "m",
+    "pu": 22.85,
+    "pv": 6.5,
+    "pa": 0.12
+  },
+  {
+    "nom": "Câble TT PVC 2x1.5  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 7.54,
+    "pv": 0.8,
+    "pa": 0.05
+  },
+  {
+    "nom": "Câble TT PVC 3x1.5  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 8.74,
+    "pv": 1.72,
+    "pa": 0.05
+  },
+  {
+    "nom": "Câble TT PVC 4x1.5  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 10.07,
+    "pv": 1.75,
+    "pa": 0.06
+  },
+  {
+    "nom": "Câble TT PVC 5x1.5  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 10.14,
+    "pv": 1.8,
+    "pa": 0.06
+  },
+  {
+    "nom": "Câble TT PVC 6x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 10.92,
+    "pv": 1.9,
+    "pa": 0.065
+  },
+  {
+    "nom": "Câble TT PVC 7x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 11.57,
+    "pv": 2.4,
+    "pa": 0.065
+  },
+  {
+    "nom": "Câble TT PVC 8x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 12.09,
+    "pv": 2.8,
+    "pa": 0.065
+  },
+  {
+    "nom": "Câble TT PVC 12x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 18.04,
+    "pv": 7.38,
+    "pa": 0.065
+  },
+  {
+    "nom": "Câble TT PVC 3x2.5  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 10.79,
+    "pv": 2.8,
+    "pa": 0.055
+  },
+  {
+    "nom": "Câble TT PVC 5x2.5  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 14.3,
+    "pv": 4.5,
+    "pa": 0.065
+  },
+  {
+    "nom": "Câble TT PVC 3x4  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 14.72,
+    "pv": 4.82,
+    "pa": 0.065
+  },
+  {
+    "nom": "Câble TT PVC 5x4  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 13.78,
+    "pv": 3.6,
+    "pa": 0.07
+  },
+  {
+    "nom": "Câble TT PVC 3x6  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 17.23,
+    "pv": 6.25,
+    "pa": 0.07
+  },
+  {
+    "nom": "Câble TT PVC 5x6  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 23.06,
+    "pv": 10.24,
+    "pa": 0.075
+  },
+  {
+    "nom": "Câble TT PVC 5x10  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 22.49,
+    "pv": 9.3,
+    "pa": 0.08
+  },
+  {
+    "nom": "Câble TT PVC 2x16  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 22.04,
+    "pv": 9.45,
+    "pa": 0.075
+  },
+  {
+    "nom": "Câble TT PVC 5x16  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 31.14,
+    "pv": 14.45,
+    "pa": 0.095
+  },
+  {
+    "nom": "Câble TT PVC 5x25  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 76.21,
+    "pv": 48.12,
+    "pa": 0.105
+  },
+  {
+    "nom": "Câble TT PVC 5x35  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 84.37,
+    "pv": 54.4,
+    "pa": 0.105
+  },
+  {
+    "nom": "Câble TT PVC 5x6 avec fil pilottes 5x1.5  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 23.4,
+    "pv": 10.0,
+    "pa": 0.08
+  },
+  {
+    "nom": "Câble TD PVC 3x1 noir CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 10.01,
+    "pv": 1.2,
+    "pa": 0.065
+  },
+  {
+    "nom": "Câble TD PVC 5x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 13.91,
+    "pv": 4.2,
+    "pa": 0.065
+  },
+  {
+    "nom": "Câble TD PVC 5x2.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 15.28,
+    "pv": 5.25,
+    "pa": 0.065
+  },
+  {
+    "nom": "Câble TD PVC 5x4 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 26.27,
+    "pv": 13.71,
+    "pa": 0.065
+  },
+  {
+    "nom": "Câble TD PVC 2x6  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 20.29,
+    "pv": 8.61,
+    "pa": 0.07
+  },
+  {
+    "nom": "Câble G51 PVC 1x2x0,6 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 8.38,
+    "pv": 0.45,
+    "pa": 0.06
+  },
+  {
+    "nom": "Câble G51 PVC 1x2x0,8 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 8.38,
+    "pv": 0.45,
+    "pa": 0.06
+  },
+  {
+    "nom": "Câble G51 PVC 4x2x0,8 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 9.75,
+    "pv": 1.5,
+    "pa": 0.06
+  },
+  {
+    "nom": "Câble U72 PVC 1x4x0,5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 6.11,
+    "pv": 0.7,
+    "pa": 0.04
+  },
+  {
+    "nom": "Câble U72 PVC 2x4x0,5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 7.15,
+    "pv": 1.0,
+    "pa": 0.045
+  },
+  {
+    "nom": "Câble U72 PVC 1x4x0,8 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 5.92,
+    "pv": 0.55,
+    "pa": 0.04
+  },
+  {
+    "nom": "Câble U72 PVC 2x4x0,8 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 6.43,
+    "pv": 0.45,
+    "pa": 0.045
+  },
+  {
+    "nom": "Câble Cat 5 UTP 4x2x0,5  CPV CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 6.29,
+    "pv": 0.83,
+    "pa": 0.04
+  },
+  {
+    "nom": "Câble Cat 6 UTP 4x2x0,5  CPV CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 7.32,
+    "pv": 1.13,
+    "pa": 0.045
+  },
+  {
+    "nom": "Câble coaxial TV PVC 75 homs 6,4dB/100m CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 7.74,
+    "pv": 0.95,
+    "pa": 0.05
+  },
+  {
+    "nom": "Câble TT PVC 5x6  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 28.08,
+    "pv": 14.1,
+    "pa": 0.075
+  },
+  {
+    "nom": "Câble TT PVC 5x10  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 40.23,
+    "pv": 23.45,
+    "pa": 0.075
+  },
+  {
+    "nom": "Câble TT PVC 5x16  CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 48.75,
+    "pv": 30.0,
+    "pa": 0.075
+  },
+  {
+    "nom": "Câble PVC 4x2x0,8 CI 52 FE180",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 14.13,
+    "pv": 4.87,
+    "pa": 0.06
+  },
+  {
+    "nom": "Câble PVC 3x1.5  CI 52 FE180",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 10.92,
+    "pv": 3.4,
+    "pa": 0.05
+  },
+  {
+    "nom": "Câble PVC 5x1.5  CI 52 FE180",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 14.95,
+    "pv": 5.5,
+    "pa": 0.06
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 3x2.5 CI 71",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 18.2,
+    "pv": 0,
+    "pa": 0.14
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 3x2.5 CI 72",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 49.4,
+    "pv": 0,
+    "pa": 0.38
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 5x2.5 CI 71",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 24.7,
+    "pv": 0,
+    "pa": 0.19
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 5x2.5 CI 72",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 65.0,
+    "pv": 0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 3x6 CI 72",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 55.9,
+    "pv": 0,
+    "pa": 0.43
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 3x6 CI 73",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 118.3,
+    "pv": 0,
+    "pa": 0.91
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 5x6 CI 72",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 76.05,
+    "pv": 0,
+    "pa": 0.585
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 5x6 CI 73",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 167.7,
+    "pv": 0,
+    "pa": 1.29
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 5x10 CI 72",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 97.5,
+    "pv": 0,
+    "pa": 0.75
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 5x10 CI 73",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 182.0,
+    "pv": 0,
+    "pa": 1.4
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 5x16 CI 72",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 106.6,
+    "pv": 0,
+    "pa": 0.82
+  },
+  {
+    "nom": "Raccordement câble TT jusq'ua 5x16 CI 73",
+    "categorie": "Câbles & Fils",
+    "unite": "p",
+    "pu": 203.45,
+    "pv": 0,
+    "pa": 1.565
+  },
+  {
+    "nom": "Fil T 2x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 6.37,
+    "pv": 0.4,
+    "pa": 0.045
+  },
+  {
+    "nom": "Fil T 3x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 6.63,
+    "pv": 0.6,
+    "pa": 0.045
+  },
+  {
+    "nom": "Fil T 4x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 8.19,
+    "pv": 0.8,
+    "pa": 0.055
+  },
+  {
+    "nom": "Fil T 5x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 8.45,
+    "pv": 1.0,
+    "pa": 0.055
+  },
+  {
+    "nom": "Fil T 6x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 10.01,
+    "pv": 1.2,
+    "pa": 0.065
+  },
+  {
+    "nom": "Fil T 7x1.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 10.27,
+    "pv": 1.4,
+    "pa": 0.065
+  },
+  {
+    "nom": "Fil T 2x1.5 CI 53",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 11.57,
+    "pv": 0.4,
+    "pa": 0.085
+  },
+  {
+    "nom": "Fil T 3x1.5 CI 53",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 11.83,
+    "pv": 0.6,
+    "pa": 0.085
+  },
+  {
+    "nom": "Fil T 4x1.5 CI 53",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 12.74,
+    "pv": 0.8,
+    "pa": 0.09
+  },
+  {
+    "nom": "Fil T 5x1.5 CI 53",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 13.0,
+    "pv": 1.0,
+    "pa": 0.09
+  },
+  {
+    "nom": "Fil T 6x1.5 CI 53",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 13.91,
+    "pv": 1.2,
+    "pa": 0.095
+  },
+  {
+    "nom": "Fil T 7x1.5 CI 53",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 14.17,
+    "pv": 1.4,
+    "pa": 0.095
+  },
+  {
+    "nom": "Fil T 3x2.5 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 8.45,
+    "pv": 1.5,
+    "pa": 0.05
+  },
+  {
+    "nom": "Fil T 1x16 CI 52",
+    "categorie": "Câbles & Fils",
+    "unite": "m",
+    "pu": 12.14,
+    "pv": 4.34,
+    "pa": 0.05
+  },
+  {
+    "nom": "Coupe circuit à visser D2,VFT,1LN AP CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 87.75,
+    "pv": 38.0,
+    "pa": 0.295
+  },
+  {
+    "nom": "Coupe circuit à visser D2,VFT,3LN AP CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 175.5,
+    "pv": 65.0,
+    "pa": 0.7
+  },
+  {
+    "nom": "Coupe circuit à visser D3,VFT,3LN AP CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 234.0,
+    "pv": 102.0,
+    "pa": 0.78
+  },
+  {
+    "nom": "Tableau de comptage SIG 1x25A CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 241.5,
+    "pv": 125.0,
+    "pa": 0.395
+  },
+  {
+    "nom": "Tableau de comptage SIG 3x25A CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 304.6,
+    "pv": 162.0,
+    "pa": 0.47
+  },
+  {
+    "nom": "Tableau de comptage SIG 3x40A CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 360.0,
+    "pv": 200.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Tableau de comptage SIG 3x63A CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 458.0,
+    "pv": 250.0,
+    "pa": 0.665
+  },
+  {
+    "nom": "Planchette Télécommande",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 334.5,
+    "pv": 185.0,
+    "pa": 0.47
+  },
+  {
+    "nom": "Tableau de comptage centralisés  AW\n    avec 2 emplacements",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 1315.0,
+    "pv": 550.0,
+    "pa": 3.0
+  },
+  {
+    "nom": "Tableau de comptage centralisés  AW\n    avec 4 emplacements",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 2130.0,
+    "pv": 1100.0,
+    "pa": 3.5
+  },
+  {
+    "nom": "Tableau de comptage centralisés  AW\n    avec 6 emplacements",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 2945.0,
+    "pv": 1650.0,
+    "pa": 4.0
+  },
+  {
+    "nom": "Tableau de comptage centralisés  AW\n    avec 8 emplacements",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 3860.0,
+    "pv": 2200.0,
+    "pa": 5.0
+  },
+  {
+    "nom": "Compteur AMD 981873368 Tri16A",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 544.06,
+    "pv": 316.2,
+    "pa": 0.665
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à  2 modules  AP CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 70.78,
+    "pv": 15.95,
+    "pa": 0.385
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à  8 modules  AP CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 82.55,
+    "pv": 25.0,
+    "pa": 0.385
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à  12 modules  AP CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 108.55,
+    "pv": 45.0,
+    "pa": 0.385
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à  13 modules  AP CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 115.05,
+    "pv": 50.0,
+    "pa": 0.385
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à  24 modules AP CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 147.55,
+    "pv": 75.0,
+    "pa": 0.385
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à  36 modules AP CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 180.05,
+    "pv": 100.0,
+    "pa": 0.385
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à  54 modules AP CI 12",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 212.55,
+    "pv": 125.0,
+    "pa": 0.385
+  },
+  {
+    "nom": "Tableau avec blanc en acier blanc 144mod 550X950",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 518.05,
+    "pv": 360.0,
+    "pa": 0.385
+  },
+  {
+    "nom": "Tableau avec blanc en acier blanc 96mod 550X650",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 466.05,
+    "pv": 320.0,
+    "pa": 0.385
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à  8 modules  ENC CI 22",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 167.05,
+    "pv": 25.0,
+    "pa": 1.035
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à 12 modules  ENC CI 22",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 232.05,
+    "pv": 50.0,
+    "pa": 1.285
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à 24 modules  ENC CI 22",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 318.5,
+    "pv": 75.0,
+    "pa": 1.7
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à 36 modules  ENC CI 22",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 404.95,
+    "pv": 100.0,
+    "pa": 2.115
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à  6 modules  AP CI 22",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 183.95,
+    "pv": 38.0,
+    "pa": 1.035
+  },
+  {
+    "nom": "Tableau avec porte, jusqu'à  24 modules  AP CI 22",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 349.05,
+    "pv": 165.0,
+    "pa": 1.035
+  },
+  {
+    "nom": "Coffret app.colonne 200x300 AP CI 22",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 223.86,
+    "pv": 68.7,
+    "pa": 1.035
+  },
+  {
+    "nom": "Borne Woertz 35mm2",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 55.77,
+    "pv": 0.4,
+    "pa": 0.425
+  },
+  {
+    "nom": "Disj. Prot. canalisation 63A 6KA, 3LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 187.0,
+    "pv": 85.0,
+    "pa": 0.425
+  },
+  {
+    "nom": "Disj. Prot. canalisation 40A 6KA, 3LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 148.0,
+    "pv": 55.0,
+    "pa": 0.425
+  },
+  {
+    "nom": "Disj. Prot. canalisation 25A 6KA, 1LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 98.8,
+    "pv": 33.5,
+    "pa": 0.425
+  },
+  {
+    "nom": "Disj. Prot. canalisation 25A 6KA, 3LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 131.1,
+    "pv": 42.0,
+    "pa": 0.425
+  },
+  {
+    "nom": "Disj. Prot. canalisation 20A 6KA, 3LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 130.65,
+    "pv": 58.0,
+    "pa": 0.425
+  },
+  {
+    "nom": "Disj. Prot. canalisation 16A 6KA, 3LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 121.03,
+    "pv": 50.6,
+    "pa": 0.425
+  },
+  {
+    "nom": "Disj. Prot. canalisation 13A 6KA, 3LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 121.03,
+    "pv": 50.6,
+    "pa": 0.425
+  },
+  {
+    "nom": "Disj. Prot. canalisation 20A 6KA, 1LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 51.87,
+    "pv": 16.4,
+    "pa": 0.235
+  },
+  {
+    "nom": "Disj. Prot. canalisation 16A 6KA, 1LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 59.41,
+    "pv": 22.2,
+    "pa": 0.235
+  },
+  {
+    "nom": "Disj. Prot. canalisation 13A 6KA, 1LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 61.62,
+    "pv": 23.9,
+    "pa": 0.235
+  },
+  {
+    "nom": "Disj. Prot. canalisation 10A 6KA, 1LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 50.05,
+    "pv": 15.0,
+    "pa": 0.235
+  },
+  {
+    "nom": "Support FI 30ma (max 25A)",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 125.45,
+    "pv": 48.0,
+    "pa": 0.485
+  },
+  {
+    "nom": "FI avec disj.prot.can. 30mA 13A 1LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 174.98,
+    "pv": 111.1,
+    "pa": 0.235
+  },
+  {
+    "nom": "FI avec disj.prot.can. 30mA 13A 3LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 268.58,
+    "pv": 183.0,
+    "pa": 0.236
+  },
+  {
+    "nom": "FI avec disj.prot.can. 30mA 10A 1LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 207.35,
+    "pv": 136.0,
+    "pa": 0.235
+  },
+  {
+    "nom": "FI avec disj.prot.can. 30mA 16A 1LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 180.18,
+    "pv": 115.0,
+    "pa": 0.236
+  },
+  {
+    "nom": "FI avec disj.prot.can. 30mA 16A 3LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 268.58,
+    "pv": 183.0,
+    "pa": 0.236
+  },
+  {
+    "nom": "FI avec disj.prot.can. 30mA 20A 1LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 212.68,
+    "pv": 140.0,
+    "pa": 0.236
+  },
+  {
+    "nom": "FI avec disj.prot.can. 30mA 32A 3LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 294.58,
+    "pv": 203.0,
+    "pa": 0.236
+  },
+  {
+    "nom": "Inter diférentiel 30mA  25A 1LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 179.14,
+    "pv": 89.3,
+    "pa": 0.485
+  },
+  {
+    "nom": "Inter diférentiel 30mA  25A 3LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 228.02,
+    "pv": 126.9,
+    "pa": 0.485
+  },
+  {
+    "nom": "Inter diférentiel 30mA  40A 1LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 154.92,
+    "pv": 70.67,
+    "pa": 0.485
+  },
+  {
+    "nom": "Inter diférentiel 30mA  40A 3LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 243.1,
+    "pv": 138.5,
+    "pa": 0.485
+  },
+  {
+    "nom": "Inter diférentiel 30mA  63A 3LN, car C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 335.57,
+    "pv": 209.63,
+    "pa": 0.485
+  },
+  {
+    "nom": "Peigne jusqu'à 12 modules   63A 1L+N  CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 32.89,
+    "pv": 16.8,
+    "pa": 0.085
+  },
+  {
+    "nom": "Peigne jusqu'à 12 modules   63A 3L+N  CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 37.31,
+    "pv": 20.2,
+    "pa": 0.085
+  },
+  {
+    "nom": "Obturateur jusqu'à 12 modules CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 4.29,
+    "pv": 3.2,
+    "pa": 0.001
+  },
+  {
+    "nom": "Raccordement et mise en service",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 195.0,
+    "pv": 0,
+    "pa": 1.5
+  },
+  {
+    "nom": "Peigne jusqu'à 24 modules   63A 1L+N  CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 35.23,
+    "pv": 25.6,
+    "pa": 0.015
+  },
+  {
+    "nom": "Peigne jusqu'à 24 modules   63A 3L+N  CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 35.23,
+    "pv": 25.6,
+    "pa": 0.015
+  },
+  {
+    "nom": "Obturateur jusqu'à 24 modules CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 8.45,
+    "pv": 6.4,
+    "pa": 0.001
+  },
+  {
+    "nom": "Raccordement et mise en service",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 390.0,
+    "pv": 0,
+    "pa": 3.0
+  },
+  {
+    "nom": "Peigne languette( 12 module 63A 1L+N  CI 31)",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 27.69,
+    "pv": 12.8,
+    "pa": 0.085
+  },
+  {
+    "nom": "Contacteur 16A 6KA, 3LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 109.85,
+    "pv": 42.0,
+    "pa": 0.425
+  },
+  {
+    "nom": "Contacteur 16A 6KA, 1LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 74.23,
+    "pv": 42.0,
+    "pa": 0.425
+  },
+  {
+    "nom": "Contacteur 25A jour/nuit Auto. 1LN, car.C CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 104.3,
+    "pv": 120.0,
+    "pa": 0.425
+  },
+  {
+    "nom": "Int. Rotatif 4P 20A Rail Din Tableau",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 97.5,
+    "pv": 75.0,
+    "pa": 0.425
+  },
+  {
+    "nom": "Fusible HPC Din00 80A",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 40.17,
+    "pv": 10.9,
+    "pa": 0.2
+  },
+  {
+    "nom": "Fusible HPC Din00 100A",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 42.9,
+    "pv": 13.0,
+    "pa": 0.2
+  },
+  {
+    "nom": "HPC-00 Hager 125A",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 165.75,
+    "pv": 67.5,
+    "pa": 0.6
+  },
+  {
+    "nom": "C-circuit pour tableau 1x16A",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 75.2,
+    "pv": 28.0,
+    "pa": 0.485
+  },
+  {
+    "nom": "Cartouche fus. HPC G0 100A",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 42.9,
+    "pv": 13.0,
+    "pa": 0.2
+  },
+  {
+    "nom": "Cartouche fus. HPC G2 100A",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 62.4,
+    "pv": 28.0,
+    "pa": 0.2
+  },
+  {
+    "nom": "Horloge digitale 1 canal 16A CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 184.6,
+    "pv": 99.5,
+    "pa": 0.425
+  },
+  {
+    "nom": "Horloge Hager Méca. 1 canal 16A CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 188.5,
+    "pv": 102.5,
+    "pa": 0.425
+  },
+  {
+    "nom": "Horloge  digitale 2 canaux journalière",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 197.35,
+    "pv": 99.5,
+    "pa": 0.43
+  },
+  {
+    "nom": "Horloge Theben journalier 1 canal 16A sur prise CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 98.02,
+    "pv": 32.9,
+    "pa": 0.425
+  },
+  {
+    "nom": "Horloge Theben AMD TR6101 canal 16A CI 31",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 220.35,
+    "pv": 127.0,
+    "pa": 0.425
+  },
+  {
+    "nom": "Minuteur Theben T13 journalier Blanc",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 49.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Sonde Crépusculaire",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 171.85,
+    "pv": 99.5,
+    "pa": 0.43
+  },
+  {
+    "nom": "Télévariateur EV 102",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 393.9,
+    "pv": 260.0,
+    "pa": 0.43
+  },
+  {
+    "nom": "Télévariateur Yokis encastré",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 166.4,
+    "pv": 85.0,
+    "pa": 0.43
+  },
+  {
+    "nom": "Compt.energie.Hager 1L 230V 32A Digit.",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 380.9,
+    "pv": 250.0,
+    "pa": 0.43
+  },
+  {
+    "nom": "Compt.energie.Hager 3L 380V 63A Digit.",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 582.4,
+    "pv": 405.0,
+    "pa": 0.43
+  },
+  {
+    "nom": "Prise T13 Tableau Hager rail DIN",
+    "categorie": "Distribution",
+    "unite": "p",
+    "pu": 92.3,
+    "pv": 28.0,
+    "pa": 0.43
+  },
+  {
+    "nom": "Interrupteur Sch3 AP  CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 48.16,
+    "pv": 19.05,
+    "pa": 0.18
+  },
+  {
+    "nom": "Interrupteur Sch6 AP  CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 59.73,
+    "pv": 27.45,
+    "pa": 0.185
+  },
+  {
+    "nom": "Interrupteur Sch3+3 AP  CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 66.56,
+    "pv": 26.2,
+    "pa": 0.25
+  },
+  {
+    "nom": "Interrupteur Sch3 lumineux AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 53.37,
+    "pv": 22.55,
+    "pa": 0.185
+  },
+  {
+    "nom": "Interrupteur avec temporisation AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 104.0,
+    "pv": 50.0,
+    "pa": 0.3
+  },
+  {
+    "nom": "Interrupteur à store AP 2 fonctions CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 93.28,
+    "pv": 39.75,
+    "pa": 0.32
+  },
+  {
+    "nom": "Interrupteur rotatif 0/1L  AP 3  CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 86.45,
+    "pv": 34.5,
+    "pa": 0.32
+  },
+  {
+    "nom": "Interrupteur rotatif 3/1L  AP 3  CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 131.17,
+    "pv": 50.4,
+    "pa": 0.505
+  },
+  {
+    "nom": "Variateur éléctronique AP 600 VA CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 110.56,
+    "pv": 59.05,
+    "pa": 0.26
+  },
+  {
+    "nom": "Régulateur de vitesse AP 1L  500VA CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 156.32,
+    "pv": 94.25,
+    "pa": 0.26
+  },
+  {
+    "nom": "Poussoir simple AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 42.7,
+    "pv": 14.85,
+    "pa": 0.18
+  },
+  {
+    "nom": "Poussoir AP lumineux CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 51.48,
+    "pv": 21.1,
+    "pa": 0.185
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+T12 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 63.12,
+    "pv": 24.55,
+    "pa": 0.24
+  },
+  {
+    "nom": "Interrupteur-prise Sch6+T12 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 79.17,
+    "pv": 35.4,
+    "pa": 0.255
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+3 T12 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 86.97,
+    "pv": 36.9,
+    "pa": 0.3
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+T13 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 64.94,
+    "pv": 25.95,
+    "pa": 0.24
+  },
+  {
+    "nom": "Interrupteur-prise Sch6+T13 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 80.86,
+    "pv": 36.7,
+    "pa": 0.255
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+3 T13 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 88.66,
+    "pv": 38.2,
+    "pa": 0.3
+  },
+  {
+    "nom": "Interrupteur Sch3 NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 119.73,
+    "pv": 48.4,
+    "pa": 0.437
+  },
+  {
+    "nom": "Interrupteur Sch6 NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 125.78,
+    "pv": 53.05,
+    "pa": 0.437
+  },
+  {
+    "nom": "Interrupteur Sch3 lumineux NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 118.82,
+    "pv": 47.7,
+    "pa": 0.437
+  },
+  {
+    "nom": "Interrupteur rotatif 0/1L  NAP  CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 144.24,
+    "pv": 60.05,
+    "pa": 0.509
+  },
+  {
+    "nom": "Interrupteur rotatif 0/3L  NAP  CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 211.12,
+    "pv": 80.2,
+    "pa": 0.822
+  },
+  {
+    "nom": "Interrupteur rotatif 0/3L  NAP UV   CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 288.86,
+    "pv": 140.0,
+    "pa": 0.822
+  },
+  {
+    "nom": "Interrupteur à clé 0/1L  NAP  CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 213.75,
+    "pv": 113.52,
+    "pa": 0.509
+  },
+  {
+    "nom": "Poussoir simple NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 104.06,
+    "pv": 36.35,
+    "pa": 0.437
+  },
+  {
+    "nom": "Poussoir lumineux NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 112.19,
+    "pv": 42.6,
+    "pa": 0.437
+  },
+  {
+    "nom": "Prise simple T12 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 36.4,
+    "pv": 8.0,
+    "pa": 0.2
+  },
+  {
+    "nom": "Prise triple T12 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 49.4,
+    "pv": 18.0,
+    "pa": 0.2
+  },
+  {
+    "nom": "Prise tripleT12 1L com. AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 53.3,
+    "pv": 18.0,
+    "pa": 0.23
+  },
+  {
+    "nom": "Prise simple T12 avec FI  AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 179.4,
+    "pv": 110.0,
+    "pa": 0.28
+  },
+  {
+    "nom": "Prise simple T12 avec FI et 3 fils de dép AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 185.9,
+    "pv": 115.0,
+    "pa": 0.28
+  },
+  {
+    "nom": "Prise simple T13 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 44.85,
+    "pv": 14.5,
+    "pa": 0.2
+  },
+  {
+    "nom": "Prise triple T13 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 62.79,
+    "pv": 28.3,
+    "pa": 0.2
+  },
+  {
+    "nom": "Prise triple T13 1L com. AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 55.77,
+    "pv": 19.9,
+    "pa": 0.23
+  },
+  {
+    "nom": "Prise T15 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 55.9,
+    "pv": 17.0,
+    "pa": 0.26
+  },
+  {
+    "nom": "Prise T23 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 84.24,
+    "pv": 44.8,
+    "pa": 0.2
+  },
+  {
+    "nom": "Prise T25 AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 96.2,
+    "pv": 48.0,
+    "pa": 0.26
+  },
+  {
+    "nom": "Prise simple T12 avec FI  NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 234.65,
+    "pv": 132.5,
+    "pa": 0.48
+  },
+  {
+    "nom": "Prise simple T13 NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 117.45,
+    "pv": 42.35,
+    "pa": 0.48
+  },
+  {
+    "nom": "Prise triple T13 NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 116.35,
+    "pv": 41.5,
+    "pa": 0.48
+  },
+  {
+    "nom": "Prise T15 NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 119.41,
+    "pv": 38.35,
+    "pa": 0.535
+  },
+  {
+    "nom": "Prise T23 NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 158.47,
+    "pv": 72.9,
+    "pa": 0.49
+  },
+  {
+    "nom": "Prise T25 NAP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 121.29,
+    "pv": 40.3,
+    "pa": 0.53
+  },
+  {
+    "nom": "Prise CEE 16A 1L N PE AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 105.43,
+    "pv": 15.1,
+    "pa": 0.66
+  },
+  {
+    "nom": "Prise CEE 32A 1L N PE AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 227.24,
+    "pv": 94.8,
+    "pa": 0.8
+  },
+  {
+    "nom": "Prise CEE 16A 3L N PE AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 123.5,
+    "pv": 23.0,
+    "pa": 0.72
+  },
+  {
+    "nom": "Prise CEE 32A 3L N PE AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 206.7,
+    "pv": 75.0,
+    "pa": 0.84
+  },
+  {
+    "nom": "Interrupteur Sch3 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 48.88,
+    "pv": 20.1,
+    "pa": 0.175
+  },
+  {
+    "nom": "Interrupteur Sch6 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 58.17,
+    "pv": 27.25,
+    "pa": 0.175
+  },
+  {
+    "nom": "Interrupteur Sch3+3 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 80.73,
+    "pv": 38.6,
+    "pa": 0.235
+  },
+  {
+    "nom": "Interrupteur Sch3 lumineux ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 52.06,
+    "pv": 22.55,
+    "pa": 0.175
+  },
+  {
+    "nom": "Interrupteur avec temporisation ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 94.12,
+    "pv": 49.9,
+    "pa": 0.225
+  },
+  {
+    "nom": "Interrupteur à store 2 fonctions ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 97.37,
+    "pv": 39.4,
+    "pa": 0.355
+  },
+  {
+    "nom": "Interrupteur à store 4 fonctions ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 169.65,
+    "pv": 95.0,
+    "pa": 0.355
+  },
+  {
+    "nom": "Interrupteur rotatif 0/1L  ENC  CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 63.63,
+    "pv": 25.95,
+    "pa": 0.23
+  },
+  {
+    "nom": "Interrupteur rotatif 3/1L  ENC  CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 107.25,
+    "pv": 36.5,
+    "pa": 0.46
+  },
+  {
+    "nom": "Interrupteur rotatif 0/3L  ENC  CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 107.25,
+    "pv": 36.5,
+    "pa": 0.46
+  },
+  {
+    "nom": "Variateur led ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 233.0,
+    "pv": 140.0,
+    "pa": 0.255
+  },
+  {
+    "nom": "Variateur éléctronique 1000 VA ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 251.55,
+    "pv": 168.0,
+    "pa": 0.255
+  },
+  {
+    "nom": "Régulateur de vitesse 500VA ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 161.53,
+    "pv": 94.25,
+    "pa": 0.3
+  },
+  {
+    "nom": "Poussoir simple ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 73.58,
+    "pv": 38.6,
+    "pa": 0.18
+  },
+  {
+    "nom": "Poussoir lumineux ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 52.72,
+    "pv": 22.55,
+    "pa": 0.18
+  },
+  {
+    "nom": "Kit sans Fils Emetteur /Récepteur",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 255.8,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Emetteur sans fils",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 149.7,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Kit sans Fils Récepteur Plejd",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 240.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Module Yokis",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 78.7,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Module Variation Feller",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 88.7,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Adaptateur Batterie BTH Plejd",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 48.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Actionneur Variateur 300w Plejd 404441118",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 139.4,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Commande RF Dali Plejd 404671498",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 149.7,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Actionneur Commutateur Plejd",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 119.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Module Emetteur RF Plejd Btooth",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 129.7,
+    "pv": 80.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Module Récepteur RF Plejd Btooth",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 137.4,
+    "pv": 80.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Module Variateur RF Plejd Btooth",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 165.62,
+    "pv": 80.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Module détecteur  RF Plejd Btooth",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 148.72,
+    "pv": 67.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Interrupteur Sch3 INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 48.88,
+    "pv": 20.1,
+    "pa": 0.175
+  },
+  {
+    "nom": "Interrupteur Sch6 INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 58.17,
+    "pv": 27.25,
+    "pa": 0.175
+  },
+  {
+    "nom": "Interrupteur Sch3+3 INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 64.28,
+    "pv": 25.95,
+    "pa": 0.235
+  },
+  {
+    "nom": "Interrupteur Sch3 lumineux INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 52.06,
+    "pv": 22.55,
+    "pa": 0.175
+  },
+  {
+    "nom": "Interrupteur avec temporisation INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 94.12,
+    "pv": 49.9,
+    "pa": 0.225
+  },
+  {
+    "nom": "Interrupteur à store 2 fonctions INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 97.37,
+    "pv": 39.4,
+    "pa": 0.355
+  },
+  {
+    "nom": "Interrupteur rotatif 0/1L  INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 63.63,
+    "pv": 25.95,
+    "pa": 0.23
+  },
+  {
+    "nom": "Interrupteur rotatif 3/1L  INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 107.25,
+    "pv": 36.5,
+    "pa": 0.46
+  },
+  {
+    "nom": "Interrupteur rotatif 0/3L  INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 107.25,
+    "pv": 36.5,
+    "pa": 0.46
+  },
+  {
+    "nom": "Variateur éléctronique 600 VA INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 139.75,
+    "pv": 82.0,
+    "pa": 0.255
+  },
+  {
+    "nom": "Régulateur de vitesse 500VAINS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 161.53,
+    "pv": 94.25,
+    "pa": 0.3
+  },
+  {
+    "nom": "Poussoir simple INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 39.65,
+    "pv": 12.5,
+    "pa": 0.18
+  },
+  {
+    "nom": "Poussoir lumineux INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 52.72,
+    "pv": 22.55,
+    "pa": 0.18
+  },
+  {
+    "nom": "Interrupteur Sch3 NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 73.45,
+    "pv": 38.9,
+    "pa": 0.176
+  },
+  {
+    "nom": "Interrupteur Sch6 NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 91.84,
+    "pv": 53.05,
+    "pa": 0.176
+  },
+  {
+    "nom": "Interrupteur Sch3 lumineux NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 84.89,
+    "pv": 47.7,
+    "pa": 0.176
+  },
+  {
+    "nom": "Interrupteur rotatif 0/1L  NUP  CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 109.53,
+    "pv": 60.05,
+    "pa": 0.242
+  },
+  {
+    "nom": "Interrupteur rotatif 0/3L  NUP  CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 137.54,
+    "pv": 58.4,
+    "pa": 0.474
+  },
+  {
+    "nom": "Interrupteur à clé 0/1L  NUP  CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 181.77,
+    "pv": 113.52,
+    "pa": 0.263
+  },
+  {
+    "nom": "Poussoir simple NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 70.14,
+    "pv": 36.35,
+    "pa": 0.176
+  },
+  {
+    "nom": "Poussoir lumineux NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 78.26,
+    "pv": 42.6,
+    "pa": 0.176
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+T12 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 75.53,
+    "pv": 34.6,
+    "pa": 0.235
+  },
+  {
+    "nom": "Interrupteur-prise Sch6+T12 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 85.54,
+    "pv": 41.3,
+    "pa": 0.245
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+3 T12 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 91.58,
+    "pv": 40.95,
+    "pa": 0.295
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+T13 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 78.0,
+    "pv": 36.5,
+    "pa": 0.235
+  },
+  {
+    "nom": "Interrupteur-prise Sch6+T13 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 87.49,
+    "pv": 42.8,
+    "pa": 0.245
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+3 T13 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 108.29,
+    "pv": 53.8,
+    "pa": 0.295
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+T12 ENC Gr1+1 CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 87.1,
+    "pv": 30.0,
+    "pa": 0.37
+  },
+  {
+    "nom": "Interrupteur-prise Sch6+T12 ENC Gr1+1 CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 104.39,
+    "pv": 43.3,
+    "pa": 0.37
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+3 T12 ENC Gr1+1 CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 111.73,
+    "pv": 42.95,
+    "pa": 0.43
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+T13 ENC Gr1+1 CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 89.11,
+    "pv": 31.55,
+    "pa": 0.37
+  },
+  {
+    "nom": "Interrupteur-prise Sch6+T13 ENC Gr1+1 CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 106.34,
+    "pv": 44.8,
+    "pa": 0.37
+  },
+  {
+    "nom": "Interrupteur-prise Sch3+3 T13 ENC Gr1+1 CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 113.56,
+    "pv": 44.35,
+    "pa": 0.43
+  },
+  {
+    "nom": "Prise simple T12 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 41.21,
+    "pv": 11.2,
+    "pa": 0.205
+  },
+  {
+    "nom": "Prise triple T12 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 59.41,
+    "pv": 25.2,
+    "pa": 0.205
+  },
+  {
+    "nom": "Prise triple T12 1L com. ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 61.75,
+    "pv": 26.5,
+    "pa": 0.21
+  },
+  {
+    "nom": "Prise simple T13 avec FI  ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 183.17,
+    "pv": 112.4,
+    "pa": 0.285
+  },
+  {
+    "nom": "Prise simple T13 avec FI et 3 fils de dép ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 219.05,
+    "pv": 140.0,
+    "pa": 0.285
+  },
+  {
+    "nom": "Prise simple T13 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 43.23,
+    "pv": 13.25,
+    "pa": 0.2
+  },
+  {
+    "nom": "Prise double T13 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 62.27,
+    "pv": 26.9,
+    "pa": 0.21
+  },
+  {
+    "nom": "Prise double T13 1L com. ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 64.74,
+    "pv": 28.3,
+    "pa": 0.215
+  },
+  {
+    "nom": "Prise triple T13 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 63.7,
+    "pv": 28.0,
+    "pa": 0.21
+  },
+  {
+    "nom": "Prise triple T13 1L com. ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 64.74,
+    "pv": 28.3,
+    "pa": 0.215
+  },
+  {
+    "nom": "Prise USB ,Type A + C + T13 Edizio",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 206.05,
+    "pv": 132.5,
+    "pa": 0.26
+  },
+  {
+    "nom": "Prise T15 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 57.85,
+    "pv": 18.5,
+    "pa": 0.26
+  },
+  {
+    "nom": "Prise T23 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 84.24,
+    "pv": 44.8,
+    "pa": 0.2
+  },
+  {
+    "nom": "Prise T25 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 97.5,
+    "pv": 49.0,
+    "pa": 0.26
+  },
+  {
+    "nom": "Prise de sol triple T13 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 143.0,
+    "pv": 60.0,
+    "pa": 0.26
+  },
+  {
+    "nom": "Prise de sol triple T13 1L com. ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 247.0,
+    "pv": 140.0,
+    "pa": 0.26
+  },
+  {
+    "nom": "Prise simple T12 INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 36.28,
+    "pv": 7.41,
+    "pa": 0.205
+  },
+  {
+    "nom": "Prise triple T12 INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 48.75,
+    "pv": 17.0,
+    "pa": 0.205
+  },
+  {
+    "nom": "Prise triple T12 1L com. INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 57.2,
+    "pv": 20.5,
+    "pa": 0.235
+  },
+  {
+    "nom": "Prise simple T12 avec FI  INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 183.17,
+    "pv": 112.4,
+    "pa": 0.285
+  },
+  {
+    "nom": "Prise simple T12 avec FI et 3 fils de dép INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 177.45,
+    "pv": 108.0,
+    "pa": 0.285
+  },
+  {
+    "nom": "Prise simple T13 INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 38.8,
+    "pv": 9.85,
+    "pa": 0.2
+  },
+  {
+    "nom": "Prise triple T13 INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 55.77,
+    "pv": 19.9,
+    "pa": 0.23
+  },
+  {
+    "nom": "Prise triple T13 1L com. INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 55.77,
+    "pv": 19.9,
+    "pa": 0.23
+  },
+  {
+    "nom": "Prise T15 INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 57.85,
+    "pv": 18.5,
+    "pa": 0.26
+  },
+  {
+    "nom": "Prise T23 INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 42.12,
+    "pv": 12.4,
+    "pa": 0.2
+  },
+  {
+    "nom": "Prise T25 INS CI 31",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 57.98,
+    "pv": 18.6,
+    "pa": 0.26
+  },
+  {
+    "nom": "Prise simple T12 avec FI  NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 209.3,
+    "pv": 132.5,
+    "pa": 0.285
+  },
+  {
+    "nom": "Prise simple T13 NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 67.08,
+    "pv": 31.1,
+    "pa": 0.205
+  },
+  {
+    "nom": "Prise triple T13 NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 121.29,
+    "pv": 72.8,
+    "pa": 0.205
+  },
+  {
+    "nom": "Prise T15 NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 84.31,
+    "pv": 38.35,
+    "pa": 0.265
+  },
+  {
+    "nom": "Prise T23 NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 69.36,
+    "pv": 32.85,
+    "pa": 0.205
+  },
+  {
+    "nom": "Prise T25 NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 141.15,
+    "pv": 82.08,
+    "pa": 0.265
+  },
+  {
+    "nom": "Prise CEE 16A 1L N PE ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 89.7,
+    "pv": 29.0,
+    "pa": 0.4
+  },
+  {
+    "nom": "Prise CEE 16A 3L N PE ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 106.92,
+    "pv": 30.25,
+    "pa": 0.52
+  },
+  {
+    "nom": "Prise CEE 32A 1L N PE ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 237.9,
+    "pv": 123.0,
+    "pa": 0.6
+  },
+  {
+    "nom": "Prise CEE 32A 3L N PE ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 294.45,
+    "pv": 153.0,
+    "pa": 0.735
+  },
+  {
+    "nom": "Cadre apparent 20mm Feller",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 19.7,
+    "pv": 5.25,
+    "pa": 0.2
+  },
+  {
+    "nom": "Cadre apparent 30mm Feller",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 21.46,
+    "pv": 5.0,
+    "pa": 0.2
+  },
+  {
+    "nom": "Cadre apparent 50mm Feller",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 27.3,
+    "pv": 5.25,
+    "pa": 0.2
+  },
+  {
+    "nom": "Prise FLF 2XRJ45",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 49.4,
+    "pv": 8.0,
+    "pa": 0.3
+  },
+  {
+    "nom": "Potelet Blanc avec 1 emplacement  H=200",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 256.62,
+    "pv": 150.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Potelet Noir avec 1 emplacement H=200",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 282.62,
+    "pv": 170.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur de mouvement Luxomat ENC Indoor 180",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 239.8,
+    "pv": 200.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur de mouvement Luxomat AP CI 12",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 356.72,
+    "pv": 227.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur de mouvement PD9 Mini on/off ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 235.9,
+    "pv": 145.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur de mouvement PD9 Mini 10/100 ENC CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 268.4,
+    "pv": 170.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur de mouvement Luxomat AP CI 12 IP 55",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 274.17,
+    "pv": 163.5,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur Luxomat AP plafonnier CI 12 IP 55",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 245.38,
+    "pv": 145.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur Luxomat ENC 535940025",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 243.62,
+    "pv": 140.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur PD2 Master Luxomat ENC CI 20 IP 55",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 289.12,
+    "pv": 175.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur de mouvement Luxomat/230°  AP IP 55",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 291.72,
+    "pv": 177.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur de mouvement NUP CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 321.62,
+    "pv": 200.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Détecteur de mouvement  NEVO 180 Relais CI 20",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 280.02,
+    "pv": 168.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Kit Yokis RF BP+Recepteur 405989199",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 280.02,
+    "pv": 168.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Module HF CD",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 89.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Kit Aladin Emetteur/récepteur S-fils",
+    "categorie": "Appareils courant fort",
+    "unite": "b",
+    "pu": 250.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Emetteur Aladin",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 149.9,
+    "pv": 80.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Module Emetteur RF Plejd Btooth",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 129.7,
+    "pv": 80.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Module Récepteur RF Plejd Btooth",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 137.4,
+    "pv": 80.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Module Variateur RF Plejd Btooth",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 165.62,
+    "pv": 80.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Module détecteur  RF Plejd Btooth",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 148.72,
+    "pv": 67.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Sonde crépusculaire hager",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 220.12,
+    "pv": 145.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Minuterie cage d'escalier MG",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 118.82,
+    "pv": 44.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Minuterie cage d'escalier Hager",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 109.72,
+    "pv": 37.0,
+    "pa": 0.474
+  },
+  {
+    "nom": "Fiche T12 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 23.07,
+    "pv": 2.25,
+    "pa": 0.155
+  },
+  {
+    "nom": "Prise mobile T13 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 25.22,
+    "pv": 3.9,
+    "pa": 0.155
+  },
+  {
+    "nom": "Fiche T15 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 45.5,
+    "pv": 13.0,
+    "pa": 0.22
+  },
+  {
+    "nom": "Prise mobile T15 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 48.36,
+    "pv": 15.2,
+    "pa": 0.22
+  },
+  {
+    "nom": "Fiche T23 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 26.65,
+    "pv": 5.0,
+    "pa": 0.155
+  },
+  {
+    "nom": "Prise mobile T23 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 31.85,
+    "pv": 9.0,
+    "pa": 0.155
+  },
+  {
+    "nom": "Fiche T25 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 57.82,
+    "pv": 22.48,
+    "pa": 0.22
+  },
+  {
+    "nom": "Prise mobile T25 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 45.5,
+    "pv": 13.0,
+    "pa": 0.22
+  },
+  {
+    "nom": "Fiche CEE 16A 1L N PE CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 39.0,
+    "pv": 11.0,
+    "pa": 0.19
+  },
+  {
+    "nom": "Prise mobile CEE 1L N PE CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 41.6,
+    "pv": 13.0,
+    "pa": 0.19
+  },
+  {
+    "nom": "Fiche CEE 16A 3L N PE CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 42.9,
+    "pv": 11.0,
+    "pa": 0.22
+  },
+  {
+    "nom": "Prise mobile 16A CEE 3L N PE CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 45.5,
+    "pv": 13.0,
+    "pa": 0.22
+  },
+  {
+    "nom": "Fiche CEE 32A 1L N PE CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 129.35,
+    "pv": 77.5,
+    "pa": 0.22
+  },
+  {
+    "nom": "Fiche CEE 32A 3L N PE CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 118.43,
+    "pv": 69.1,
+    "pa": 0.22
+  },
+  {
+    "nom": "Prise mobile 32 16A 3L N PE CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 88.01,
+    "pv": 35.2,
+    "pa": 0.325
+  },
+  {
+    "nom": "Fiche CEE 63A 3L N PE CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 121.81,
+    "pv": 71.7,
+    "pa": 0.22
+  },
+  {
+    "nom": "Prise mobile 63A  3L N PE CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 164.71,
+    "pv": 94.2,
+    "pa": 0.325
+  },
+  {
+    "nom": "Fiche étanche T12 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 29.45,
+    "pv": 7.15,
+    "pa": 0.155
+  },
+  {
+    "nom": "Prise mobile étanche T13 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 32.05,
+    "pv": 9.15,
+    "pa": 0.155
+  },
+  {
+    "nom": "Fiche étanche T15 CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 54.6,
+    "pv": 20.0,
+    "pa": 0.22
+  },
+  {
+    "nom": "Fiche T25 étanche CI 72",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 64.35,
+    "pv": 27.5,
+    "pa": 0.22
+  },
+  {
+    "nom": "Raccordement fiche 4P ( fournit par la DT )",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 28.6,
+    "pv": 0,
+    "pa": 0.22
+  },
+  {
+    "nom": "Fiche étanche type Willand 4P",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 45.5,
+    "pv": 13.0,
+    "pa": 0.22
+  },
+  {
+    "nom": "Obturateur appareillage",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 8.71,
+    "pv": 5.2,
+    "pa": 0.015
+  },
+  {
+    "nom": "Obturateur sortie de câble GRD I",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 47.6,
+    "pv": 15.0,
+    "pa": 0.22
+  },
+  {
+    "nom": "Obturateur sortie de câble GRD II",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 52.6,
+    "pv": 20.0,
+    "pa": 0.22
+  },
+  {
+    "nom": "Obturateur appareillage IP55",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 26.71,
+    "pv": 19.05,
+    "pa": 0.015
+  },
+  {
+    "nom": "Obturateur appareillage EDIZIO DUE",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 17.8,
+    "pv": 6.65,
+    "pa": 0.015
+  },
+  {
+    "nom": "TH d'ambiance ENC EdizioDue avec Int.439112000",
+    "categorie": "Appareils courant fort",
+    "unite": "p",
+    "pu": 230.91,
+    "pv": 104.7,
+    "pa": 0.474
+  },
+  {
+    "nom": "Prise AP TT83 A6 CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 68.64,
+    "pv": 27.8,
+    "pa": 0.25
+  },
+  {
+    "nom": "Prise AP TT83 A12 CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 88.2,
+    "pv": 42.85,
+    "pa": 0.25
+  },
+  {
+    "nom": "Prise AP 1xRJ45 /  tel CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 67.21,
+    "pv": 26.7,
+    "pa": 0.25
+  },
+  {
+    "nom": "Prise AP 2xRJ45 /  tel CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 78.39,
+    "pv": 26.8,
+    "pa": 0.335
+  },
+  {
+    "nom": "Prise AP 3xRJ45 /  tel CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 93.6,
+    "pv": 30.0,
+    "pa": 0.42
+  },
+  {
+    "nom": "Prise AP 4xRJ45 /  tel CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 119.21,
+    "pv": 41.2,
+    "pa": 0.505
+  },
+  {
+    "nom": "Prise AP 1xRJ45 /  inf CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 75.4,
+    "pv": 28.0,
+    "pa": 0.3
+  },
+  {
+    "nom": "Prise AP 2xRJ45 /  inf CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 92.95,
+    "pv": 28.0,
+    "pa": 0.435
+  },
+  {
+    "nom": "Prise AP 3xRJ45 /  inf CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 115.7,
+    "pv": 32.0,
+    "pa": 0.57
+  },
+  {
+    "nom": "Prise AP 4xRJ45 /  inf CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 147.55,
+    "pv": 43.0,
+    "pa": 0.705
+  },
+  {
+    "nom": "Prise ENC 1xRJ45 /  tel CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 62.53,
+    "pv": 23.6,
+    "pa": 0.245
+  },
+  {
+    "nom": "Prise ENC 2xRJ45 /  tel CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 77.74,
+    "pv": 26.8,
+    "pa": 0.33
+  },
+  {
+    "nom": "Prise ENC 3xRJ45 /  tel CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 89.44,
+    "pv": 27.3,
+    "pa": 0.415
+  },
+  {
+    "nom": "Prise ENC 4xRJ45 /  tel CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 102.5,
+    "pv": 28.85,
+    "pa": 0.5
+  },
+  {
+    "nom": "Prise ENC 1xRJ45 /  inf CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 70.33,
+    "pv": 24.6,
+    "pa": 0.295
+  },
+  {
+    "nom": "Prise ENC 2xRJ45 /  inf CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 92.04,
+    "pv": 27.8,
+    "pa": 0.43
+  },
+  {
+    "nom": "Prise ENC 3xRJ45 /  inf CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 110.24,
+    "pv": 28.3,
+    "pa": 0.565
+  },
+  {
+    "nom": "Prise ENC 4xRJ45 /  inf CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 129.81,
+    "pv": 29.85,
+    "pa": 0.7
+  },
+  {
+    "nom": "Prise ENC 4xRJ45 /  inf CI 20 Ediziodue",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 129.81,
+    "pv": 29.85,
+    "pa": 0.7
+  },
+  {
+    "nom": "Prise INS 1xRJ45 /  tel CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 62.53,
+    "pv": 23.6,
+    "pa": 0.245
+  },
+  {
+    "nom": "Prise INS 2xRJ45 /  tel CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 77.74,
+    "pv": 26.8,
+    "pa": 0.33
+  },
+  {
+    "nom": "Prise INS 3xRJ45 /  tel CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 89.44,
+    "pv": 27.3,
+    "pa": 0.415
+  },
+  {
+    "nom": "Prise INS 4xRJ45 /  tel CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 102.5,
+    "pv": 28.85,
+    "pa": 0.5
+  },
+  {
+    "nom": "Prise INS 1xRJ45 /  inf CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 70.33,
+    "pv": 24.6,
+    "pa": 0.295
+  },
+  {
+    "nom": "Prise INS 2xRJ45 /  inf CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 92.04,
+    "pv": 27.8,
+    "pa": 0.43
+  },
+  {
+    "nom": "Prise INS 3xRJ45 /  inf CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 110.24,
+    "pv": 28.3,
+    "pa": 0.565
+  },
+  {
+    "nom": "Prise INS 4xRJ45 /  inf CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 129.81,
+    "pv": 29.85,
+    "pa": 0.7
+  },
+  {
+    "nom": "Boitier avec support de modules - 6 modules CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 43.94,
+    "pv": 26.0,
+    "pa": 0.078
+  },
+  {
+    "nom": "Connecteur de racc. RJ45/u 0.4-0.8 CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 15.6,
+    "pv": 7.5,
+    "pa": 0.045
+  },
+  {
+    "nom": "Connecteur de racc. RJ45/s 0.4-0.8 CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 22.23,
+    "pv": 10.0,
+    "pa": 0.071
+  },
+  {
+    "nom": "Connecteur de racc. RJ45/s 0.4-0.8 CI 31 CAT 5E",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 24.31,
+    "pv": 11.6,
+    "pa": 0.071
+  },
+  {
+    "nom": "Connecteur de racc. RJ45/u 0.4-0.8 CI 31 CAT 6E",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 37.05,
+    "pv": 24.0,
+    "pa": 0.045
+  },
+  {
+    "nom": "obturateur pour RJ45",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 2.08,
+    "pv": 1.1,
+    "pa": 0.005
+  },
+  {
+    "nom": "Boitier 6/12 Rj 45",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 66.43,
+    "pv": 44.0,
+    "pa": 0.071
+  },
+  {
+    "nom": "Cordon Patch RJ45 10Mètres gris",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 46.28,
+    "pv": 28.5,
+    "pa": 0.071
+  },
+  {
+    "nom": "Adaptateur câble 2X RJ45 20cm",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 38.28,
+    "pv": 22.35,
+    "pa": 0.071
+  },
+  {
+    "nom": "Carillon ENC Solfa 230V électronique CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 102.18,
+    "pv": 58.1,
+    "pa": 0.205
+  },
+  {
+    "nom": "GONG Solfa enc.8/12VAC/DC",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 105.0,
+    "pv": 68.15,
+    "pa": 0.205
+  },
+  {
+    "nom": "Sonnette à tabat.ENC Ticino 8-12V CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 57.4,
+    "pv": 23.65,
+    "pa": 0.205
+  },
+  {
+    "nom": "Carillon AP 8-12v Legrand CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 113.56,
+    "pv": 66.85,
+    "pa": 0.205
+  },
+  {
+    "nom": "Carillon AP Solfa 230V électronique CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 113.56,
+    "pv": 66.85,
+    "pa": 0.205
+  },
+  {
+    "nom": "Sonnette AP à tabat.Ticino 8-12V CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 57.4,
+    "pv": 23.65,
+    "pa": 0.205
+  },
+  {
+    "nom": "Contact poussoir pour sonnerie  CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 44.72,
+    "pv": 16.4,
+    "pa": 0.18
+  },
+  {
+    "nom": "Contact poussoir pour sonnerie NUP CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 87.36,
+    "pv": 47.7,
+    "pa": 0.195
+  },
+  {
+    "nom": "Kit Libra émetteur/récepteur 200m YC. Les piles",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 268.33,
+    "pv": 184.85,
+    "pa": 0.5
+  },
+  {
+    "nom": "Kit émetteur/récepteur Legrand sans fils",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 164.0,
+    "pv": 90.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Sonnette à piles ding-dong",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 94.5,
+    "pv": 31.35,
+    "pa": 0.5
+  },
+  {
+    "nom": "Kit piles AA(x4)",
+    "categorie": "Télécommunications",
+    "unite": "b",
+    "pu": 24.6,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Transformateur sonnerie 12v",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 133.01,
+    "pv": 30.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Poste int. Bticino",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 157.21,
+    "pv": 52.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Prise AP 1Connect. radio, 1 TV, 1TED  CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 85.86,
+    "pv": 41.05,
+    "pa": 0.25
+  },
+  {
+    "nom": "Prise AP 1Connect. radio, 1 TV, 1SAT  CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 91.0,
+    "pv": 45.0,
+    "pa": 0.25
+  },
+  {
+    "nom": "Prise ENC 1Connect. radio, 1 TV, 1TED  CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 85.86,
+    "pv": 41.05,
+    "pa": 0.245
+  },
+  {
+    "nom": "Prise ENC 1Connect. radio, 1 TV, 1SAT  CI 20",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 91.0,
+    "pv": 45.0,
+    "pa": 0.245
+  },
+  {
+    "nom": "Prise INS 1Connect. radio, 1 TV, 1TED  CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 85.86,
+    "pv": 41.05,
+    "pa": 0.245
+  },
+  {
+    "nom": "Prise INS 1Connect. radio, 1 TV, 1SAT  CI 31",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 91.0,
+    "pv": 45.0,
+    "pa": 0.245
+  },
+  {
+    "nom": "Amplificateur pour branchement interne",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 520.0,
+    "pv": 350.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Dérivateur jusqu'à 8 voies CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 130.0,
+    "pv": 50.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Dérivateur jusqu'à 10 voies CI 12",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 130.0,
+    "pv": 50.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Fiches F",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 14.3,
+    "pv": 1.5,
+    "pa": 0.095
+  },
+  {
+    "nom": "CDV - Profil 100  EC Digicode",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 567.0,
+    "pv": 384.0,
+    "pa": 0
+  },
+  {
+    "nom": "Flexible inox 30cm",
+    "categorie": "Télécommunications",
+    "unite": "p",
+    "pu": 55.4,
+    "pv": 18.0,
+    "pa": 0
+  },
+  {
+    "nom": "Lumiled L 49 cm CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 117.0,
+    "pv": 40.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Lumiled L 63 cm CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 130.0,
+    "pv": 50.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Lumiled L 80 cm CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 143.0,
+    "pv": 60.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Lumiled L 120 cmCI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 162.5,
+    "pv": 70.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Lumiled L 150 cm CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 175.5,
+    "pv": 80.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Luminaire AP verre acryl 1x36W ind CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 160.09,
+    "pv": 68.15,
+    "pa": 0.55
+  },
+  {
+    "nom": "Luminaire AP pour miroire verre acryl oppale, \n   L 400 mm FS 1x18W  sans prise  CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 188.5,
+    "pv": 105.0,
+    "pa": 0.4
+  },
+  {
+    "nom": "Luminaire AP pour miroire verre acryl oppale, \n   L 400 mm FS 1x18W  avec  prise T3 CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 240.5,
+    "pv": 145.0,
+    "pa": 0.4
+  },
+  {
+    "nom": "Luminaire AP pour miroire verre acryl oppale, \n   L 400 mm FS 1x18W  avec  prise FI CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 318.5,
+    "pv": 205.0,
+    "pa": 0.4
+  },
+  {
+    "nom": "Luminaire AP 1x36W IP55",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 123.5,
+    "pv": 55.0,
+    "pa": 0.4
+  },
+  {
+    "nom": "Luminaire AP 1x18w étanche",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 93.73,
+    "pv": 38.25,
+    "pa": 0.55
+  },
+  {
+    "nom": "Luminaire AP 1x36w étanche",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 100.55,
+    "pv": 48.7,
+    "pa": 0.55
+  },
+  {
+    "nom": "Luminaire AP 1x58w étanche",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 118.62,
+    "pv": 57.4,
+    "pa": 0.55
+  },
+  {
+    "nom": "Luminaire AP 2x58w étanche",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 134.0,
+    "pv": 57.4,
+    "pa": 0.55
+  },
+  {
+    "nom": "Rail de support zingué à chaud, \n   avec câblage lineaire CI 11",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 45.5,
+    "pv": 25.0,
+    "pa": 0.1
+  },
+  {
+    "nom": "Pièce terminale",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 7.8,
+    "pv": 4.0,
+    "pa": 0.02
+  },
+  {
+    "nom": "Suspension par chaîne",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 50.7,
+    "pv": 9.0,
+    "pa": 0.3
+  },
+  {
+    "nom": "Platines-réglette IP 20 pour E line T8 1x36W CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 93.6,
+    "pv": 64.0,
+    "pa": 0.08
+  },
+  {
+    "nom": "Platines-réglette IP 20 pour E line T8 2x36W CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 120.9,
+    "pv": 85.0,
+    "pa": 0.08
+  },
+  {
+    "nom": "Plaque d'obturateur",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 11.05,
+    "pv": 3.0,
+    "pa": 0.055
+  },
+  {
+    "nom": "Luminaire standart  18W  CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 106.08,
+    "pv": 40.0,
+    "pa": 0.416
+  },
+  {
+    "nom": "Luminaire standart  36W  CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 101.53,
+    "pv": 36.5,
+    "pa": 0.416
+  },
+  {
+    "nom": "Luminaire standart  58W  CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 113.75,
+    "pv": 45.9,
+    "pa": 0.416
+  },
+  {
+    "nom": "Tube fluo 18W CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 13.65,
+    "pv": 10.0,
+    "pa": 0.005
+  },
+  {
+    "nom": "Tube led équivalent 18W CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 34.6,
+    "pv": 15.46,
+    "pa": 0.005
+  },
+  {
+    "nom": "Tube fluo 36W CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 16.25,
+    "pv": 12.0,
+    "pa": 0.005
+  },
+  {
+    "nom": "Tube fluo 58W CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 18.2,
+    "pv": 13.5,
+    "pa": 0.005
+  },
+  {
+    "nom": "Tube led G13 5.1w 4000k (ancien T8 15w)",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 21.97,
+    "pv": 16.4,
+    "pa": 0.005
+  },
+  {
+    "nom": "Tube led 1.2m 14.7w 2500lm 840  CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 29.07,
+    "pv": 21.86,
+    "pa": 0.005
+  },
+  {
+    "nom": "Tube T5 led 18,5w 2600lm 3000k 941806291",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 42.07,
+    "pv": 31.86,
+    "pa": 0.005
+  },
+  {
+    "nom": "Tube T5 led 5,1w 900lm 4000k (T8=15W)941903722",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 31.85,
+    "pv": 24.0,
+    "pa": 0.005
+  },
+  {
+    "nom": "Tube T5 led G5 2800lm 4000k 941818780",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 42.07,
+    "pv": 31.86,
+    "pa": 0.005
+  },
+  {
+    "nom": "Tube T5 35W CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 15.08,
+    "pv": 11.1,
+    "pa": 0.005
+  },
+  {
+    "nom": "Tube T5 14W CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 13.06,
+    "pv": 9.55,
+    "pa": 0.005
+  },
+  {
+    "nom": "Gu10 avec 18 Leds blanc chaud",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 38.35,
+    "pv": 29.0,
+    "pa": 0.005
+  },
+  {
+    "nom": "Ampoules E27 11W 827 Mini Lynx Fast start",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 16.25,
+    "pv": 12.0,
+    "pa": 0.005
+  },
+  {
+    "nom": "Ampoule Led Dulux  G23 4w/840 550lm 941815080",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 13.69,
+    "pv": 10.03,
+    "pa": 0.005
+  },
+  {
+    "nom": "Ampoule halogène Hi-pin G9 40w",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 18.14,
+    "pv": 13.45,
+    "pa": 0.005
+  },
+  {
+    "nom": "Ampoule Led G9 230v Core Pro dim.",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 19.84,
+    "pv": 14.76,
+    "pa": 0.005
+  },
+  {
+    "nom": "Ampoule led 12v Mr16 dimmable",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 60.77,
+    "pv": 46.25,
+    "pa": 0.005
+  },
+  {
+    "nom": "Luminaire avec globe en verre oppal pour lampe\n   incandescence avec douille et lampe 60W",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 91.33,
+    "pv": 28.65,
+    "pa": 0.416
+  },
+  {
+    "nom": "Luminaire sans globe, pour lampe\n   incandescence avec douille et lampe 60W",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 73.58,
+    "pv": 15.0,
+    "pa": 0.416
+  },
+  {
+    "nom": "Lampe \"bateau\" étanche avec base métal.",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 112.58,
+    "pv": 61.0,
+    "pa": 0.416
+  },
+  {
+    "nom": "Lampe \"bateau\" étanche .",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 74.88,
+    "pv": 32.0,
+    "pa": 0.416
+  },
+  {
+    "nom": "Luminaire 2X40W avec Prise FI",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 353.08,
+    "pv": 230.0,
+    "pa": 0.416
+  },
+  {
+    "nom": "Luminaire 2X40W avec 2XT13",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 353.08,
+    "pv": 230.0,
+    "pa": 0.416
+  },
+  {
+    "nom": "Luminaire 2X40W",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 210.08,
+    "pv": 120.0,
+    "pa": 0.416
+  },
+  {
+    "nom": "Luminaire 3X40W avec 2XT13",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 353.08,
+    "pv": 230.0,
+    "pa": 0.416
+  },
+  {
+    "nom": "Diffuseur OPAL 4X18 AP",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 131.9,
+    "pv": 91.46,
+    "pa": 0.1
+  },
+  {
+    "nom": "Douille et ampoule led   CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 9.7,
+    "pv": 5.0,
+    "pa": 0.005
+  },
+  {
+    "nom": "Rail de fixation pour tube lumineux CI 12",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 23.4,
+    "pv": 3.5,
+    "pa": 0.145
+  },
+  {
+    "nom": "Tube lumineux Roman Twisted CI 11",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 5.98,
+    "pv": 4.1,
+    "pa": 0.005
+  },
+  {
+    "nom": "Câble d'allimentation  2m CI 72",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 25.09,
+    "pv": 4.3,
+    "pa": 0.15
+  },
+  {
+    "nom": "Armoire de toilette avec prise",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 667.55,
+    "pv": 395.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Armoire de toilette 60cm",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 511.0,
+    "pv": 300.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Turbinette silent diam 80  CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 266.5,
+    "pv": 150.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Turbinette silent diam 100  CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 331.5,
+    "pv": 200.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Turbinette silent diam  cde 100  CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 348.0,
+    "pv": 200.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Soupape 230v",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 124.8,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Fourniture spot orient fonte allu blanc",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 18.33,
+    "pv": 14.1,
+    "pa": 0
+  },
+  {
+    "nom": "Fourniture transfo électronique 12V 60VA",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 31.85,
+    "pv": 24.5,
+    "pa": 0
+  },
+  {
+    "nom": "Fourniture lampe hallogène 12V 35W",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 12.87,
+    "pv": 9.9,
+    "pa": 0
+  },
+  {
+    "nom": "Fourniture lampe hallogène 12V 50W",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 13.26,
+    "pv": 10.2,
+    "pa": 0
+  },
+  {
+    "nom": "Pose et raccordement KIT spot",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 78.0,
+    "pv": 0,
+    "pa": 0.6
+  },
+  {
+    "nom": "Spot led blanc STD 3000 ou 4000k",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 134.6,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Spot led blanc STD 3000 ARC",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 134.6,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Spot led blanc STD ARC diam.50mm",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 117.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Spot orient fonte allu avec transfo 60VA \n   et lampe 50W",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 139.69,
+    "pv": 47.45,
+    "pa": 0.6
+  },
+  {
+    "nom": "Spot fixe fonte alu étanche avec transfo 60VA \n   et lampe 50W",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 162.5,
+    "pv": 65.0,
+    "pa": 0.6
+  },
+  {
+    "nom": "Boîtier anti-feu Thermox (dia.86mm) Spot standart avec fibre",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 129.35,
+    "pv": 29.5,
+    "pa": 0.7
+  },
+  {
+    "nom": "Double projecteurs 2x150w couleur alu avec detect.",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 208.0,
+    "pv": 105.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Projecteur 500w ELBROLIGHT",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 156.0,
+    "pv": 65.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Luminaire 2X36W Syldust avec Diffuseur Opale",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 292.8,
+    "pv": 110.5,
+    "pa": 0.55
+  },
+  {
+    "nom": "Sarlam ronde E27 IP54 Dédecteur",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 500.5,
+    "pv": 330.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Armature Sarlam ronde 17w led",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 831.8,
+    "pv": 380.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Luminaire Klipo S  2X28/830 App.",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 466.3,
+    "pv": 197.25,
+    "pa": 0.55
+  },
+  {
+    "nom": "Cache Plafonnier Ledvance 941900450 Rond",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 52.6,
+    "pv": 0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Sylcircle 12w 3000k ou 4000k",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 49.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Sylcircle 18w dualcolor",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 74.5,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Sylcircle 18w 3000k ou 4000k",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 74.5,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Sylcircle 24w 3000k ou 4000k",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 94.5,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Start surface Slim Carré 20x20",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 129.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Start surface Slim Carré 35w Dual color",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 215.3,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Start surface Slim Rond 35w Dual color",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 215.3,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Start surface Rond IP 66 3000k",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 148.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Lumia AC 10/15w Tunable",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 89.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Panel 600x600 3000k",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 180.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Panel 600x600 4000k",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 180.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Cadre blanc 600x600",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 75.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Panel 1200x300 3000k",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 290.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Panel 1200x300 4000k",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 290.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Cadre blanc 1200x300",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 75.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Kit suspension",
+    "categorie": "Luminaires",
+    "unite": "b",
+    "pu": 39.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Variateur led ENC CI 20",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 233.0,
+    "pv": 140.0,
+    "pa": 0.255
+  },
+  {
+    "nom": "Transformateur variable Panel",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 78.4,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Lumiled L 40 cm CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 59.9,
+    "pv": 40.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Lumiled L 63 cm CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 64.9,
+    "pv": 50.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Lumiled L 90 cm CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 69.9,
+    "pv": 60.0,
+    "pa": 0.5
+  },
+  {
+    "nom": "Lumiled L PIPE 120 cm CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 78.9,
+    "pv": 70.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Lumiled L PIPE 150 cm CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 89.9,
+    "pv": 80.0,
+    "pa": 0.55
+  },
+  {
+    "nom": "Ampoule E27 4000k 1055lm 10w",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 13.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ampoule E27 4000k 2452lm 20w",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 26.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ampoule E27 827 15w 1500lm",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 22.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ampoule E27 4000k 3451lm",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 39.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ampoule E14 4000k 470lm",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 12.4,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ampoule E14 4000k & 2700k 806lm 6,5w",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 13.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ampoule G9 4000k 806lm 4,9w 941821050",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 28.7,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Boîte de dérivation MDM Speedbox Gr1 CI 12",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 82.28,
+    "pv": 5.79,
+    "pa": 0.575
+  },
+  {
+    "nom": "Canal d'installation PVC blanc 15x15 CI 11",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 19.43,
+    "pv": 2.95,
+    "pa": 0.12
+  },
+  {
+    "nom": "Câble TT PVC 3x1.5  CI 52",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 8.74,
+    "pv": 1.72,
+    "pa": 0.05
+  },
+  {
+    "nom": "Lampadaire 79w,7600lm 4000k dim. 1005391 SLV",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 989.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Luminaire sur pied Sylvania 0042972 Areum",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 1185.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Main d'œuvre et livraison",
+    "categorie": "Luminaires",
+    "unite": "b",
+    "pu": 250.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Wayline 1200 , 26 w , 2900lm 0048918",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 112.4,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Wayline 600    4000k  on/off",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 115.4,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Profil Alu plat",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 29.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Profil Alu angle",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 32.8,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Profil Alu encastré",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 38.7,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Diffuseur opaque",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 12.9,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Câble TD PVC 2x1 led CI 52",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 5.46,
+    "pv": 1.2,
+    "pa": 0.065
+  },
+  {
+    "nom": "Ruban led Ip 20  4,8w",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 26.8,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ruban led Ip 20 9,6w",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 29.8,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ruban led Ip 20 14,4w",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 36.4,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ruban led Ip 20 19,6w",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 41.2,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ruban led Ip 67  4,8w",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 38.8,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ruban led Ip 67 9,6w",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 41.6,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ruban led Ip 67 14,4w",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 48.7,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ruban led Ip 67 19,6w",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 49.7,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Ruban led Ip 67 RGB",
+    "categorie": "Luminaires",
+    "unite": "m",
+    "pu": 49.7,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Transformateur 24v Ip 40w",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 69.8,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Transformateur 24v Ip 60w",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 81.4,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Transformateur 24v Ip 100w",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 98.6,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Transformateur 24v Ip 250w",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 129.7,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Transformateur 24vdc  Ip 200w 919395269",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 174.3,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Transformateur 24v Plejd 75w Dim.",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 134.6,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Transformateur 24v DALI 919390556 35w",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 134.6,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Détecteur de mouvemant APP Plejd ,Batterie,BTH",
+    "categorie": "Luminaires",
+    "unite": "p",
+    "pu": 77.0,
+    "pv": 0,
+    "pa": 0
+  },
+  {
+    "nom": "Aluminium naturel",
+    "categorie": "Plaques Feller",
+    "unite": "p",
+    "pu": 57.9,
+    "pv": 38.0,
+    "pa": 0.1
+  },
+  {
+    "nom": "Acier chrome ponce",
+    "categorie": "Plaques Feller",
+    "unite": "p",
+    "pu": 57.9,
+    "pv": 38.0,
+    "pa": 0.1
+  },
+  {
+    "nom": "Acier chrome poli",
+    "categorie": "Plaques Feller",
+    "unite": "p",
+    "pu": 92.04,
+    "pv": 60.8,
+    "pa": 0.1
+  },
+  {
+    "nom": "Verre blanc",
+    "categorie": "Plaques Feller",
+    "unite": "p",
+    "pu": 52.52,
+    "pv": 30.4,
+    "pa": 0.1
+  },
+  {
+    "nom": "Aluminium blanc 1X1",
+    "categorie": "Plaques Feller",
+    "unite": "p",
+    "pu": 78.0,
+    "pv": 50.0,
+    "pa": 0.1
+  },
+  {
+    "nom": "Aluminium blanc 2X1",
+    "categorie": "Plaques Feller",
+    "unite": "p",
+    "pu": 123.5,
+    "pv": 85.0,
+    "pa": 0.1
+  },
+  {
+    "nom": "Plaque laiton brosse 3x1",
+    "categorie": "Plaques Feller",
+    "unite": "p",
+    "pu": 293.21,
+    "pv": 215.55,
+    "pa": 0.1
+  }
+]
