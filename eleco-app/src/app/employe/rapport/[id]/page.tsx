@@ -10,7 +10,7 @@ type Materiau = { ref: string; nom: string; unite: string; categorie: string; qu
 type Article = { ref: string; nom: string; unite: string; categorie: string; prix_net: number }
 
 const catalogue = catalogueData as Article[]
-const categories = [...new Set(catalogue.map(a => a.categorie))]
+const categories = Array.from(new Set(catalogue.map(a => a.categorie)))
 
 export default function RapportPage() {
   const router = useRouter()
